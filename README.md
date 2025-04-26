@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+PANTALLA PRINCIPAL:
+- Inicio de sesión
+- Control de volumen
+- Selector de dificultad 
+    (fácil, medio, difícil)
+    (se guardará en el localstorage)
+- Selector de temas
 
-## Getting Started
+TEMAS:
+1. programación
+2. astrología
+3. videojuegos
+4. geografía
 
-First, run the development server:
+CADA TEMA TENDRÁ:
+- Selector de dificultad
+    (fácil, medio, difícil)
+    (se guardará en el localstorage)
+- Botón de inicio
+- Tabla de puntuaciones:
+    - Posición
+    - Quién
+    - Dificultad (1)
+    - Preguntas correctas (2)
+    - Tiempo (3)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+CADA SESIÓN DE JUEGO TENDRÁ:
+- Que tema es
+- Estadisticas:
+    - Nivel de dificultad
+    - Número de preguntas (actual / total)
+    - Tiempo
+- Las preguntas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+CADA SESIÓN DE PREGUNTAS TENDRÁ:
+- Pregunta persé
+- Respuestas
+- Botón de enviar
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+AL FINALIZAR CADA SESIÓN DE JUEGO:
+- Mensaje de finalizado
+- Mostrar resumen de las estadísticas:
+    - Nivel de dificultad
+    - Preguntas correctas / incorrectas
+    - Tiempo total
+- Si no está iniciado sesión, pedir iniciar sesión
+- Guardar los datos en la base de datos:
+    (Verificar si el juego actual es mejor al 
+    guardado en la base de datos, si sí, sobrescribir 
+    con las nuevas estadísticas)
+    - Quién (id usuario)
+    - Qué tema
+    - Qué dificultad
+    - Cuántas preguntas correctas
+    - Tiempo en total
+- Tabla de puntuaciones ya con datos actualizados
+- Botón de finalizar (regresa al inicio)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+README.md (version 1)
