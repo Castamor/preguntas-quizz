@@ -24,7 +24,7 @@ export default function RootLayout({
     return (
         <html lang="es">
             <body
-                className={`${rubik.className} antialiased `}
+                className={`${rubik.className} antialiased contenido`}
             >
                 {children}
             </body>
