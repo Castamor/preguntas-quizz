@@ -1,21 +1,23 @@
+import Link from "next/link";
+
 export default function Home() {
 
     const TEMAS = [
         {
             nombre: 'Programación',
-            goTo: '/programacion',
+            href: '/programacion',
         },
         {
             nombre: 'Videojuegos',
-            goTo: '/videojuegos',
+            href: '/videojuegos',
         },
         {
             nombre: 'Astrología',
-            goTo: '/astrologia',
+            href: '/astrologia',
         },
         {
             nombre: 'Geografía',
-            goTo: '/geografia',
+            href: '/geografia',
         },
     ]
 
@@ -29,13 +31,17 @@ export default function Home() {
                     <p className="font-light">Elige un tema y prueba tus capacidades.</p>
                 </div>
 
-                <ul className="grid grid-cols-2 grid-rows-2 text-center gap-4 aspect-square max-w-[20rem] mx-auto">
-                    {TEMAS.map(({ nombre, goTo }) => (
-                        <li key={nombre} className="border flex items-center justify-center font-semibold uppercase cursor-pointer rounded-xl p-8">
+                <section className="grid grid-cols-2 grid-rows-2 text-center gap-4 aspect-square max-w-[20rem] mx-auto">
+                    {TEMAS.map(({ nombre, href }) => (
+                        <Link
+                            key={nombre}
+                            href={href}
+                            className="border flex items-center justify-center font-semibold uppercase cursor-pointer rounded-xl p-8"
+                        >
                             {nombre}
-                        </li>
+                        </Link>
                     ))}
-                </ul>
+                </section>
             </main>
         </div>
     );
