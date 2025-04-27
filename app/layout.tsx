@@ -26,8 +26,14 @@ export default function RootLayout({
          <body
             className={`${rubik.className} antialiased contenido`}
          >
-            {children}
+            <div className="grid grid-rows-[0px_1fr_0px] items-center min-h-screen gap-16 mx-auto">
+               <main className="flex flex-col gap-[32px] row-start-2 ">
+                  {children}
+               </main>
+            </div>
          </body>
+
+
       </html>
    );
 }
