@@ -1,7 +1,7 @@
 export default function Programacion() {
 
-    return (
-        <p>HOLA Programacion</p>
+   return (
+      <p>HOLA Programacion</p>
 
-    )
+   )
 }

@@ -1,7 +1,7 @@
 export default function Geografia() {
 
-    return (
-        <p>HOLA Geografias</p>
+   return (
+      <p>HOLA Geografias</p>
 
-    )
+   )
 }
