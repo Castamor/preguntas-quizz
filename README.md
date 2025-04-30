@@ -2,7 +2,7 @@ PANTALLA PRINCIPAL:
 - Inicio de sesión
 - Control de volumen
 - Selector de dificultad 
-    (fácil, medio, difícil)
+    (normal, difícil)
     (se guardará en el localstorage)
 - Selector de temas
 
@@ -14,7 +14,7 @@ TEMAS:
 
 CADA TEMA TENDRÁ:
 - Selector de dificultad
-    (fácil, medio, difícil)
+    (normal, difícil)
     (se guardará en el localstorage)
 - Botón de inicio
 - Tabla de puntuaciones:
@@ -55,5 +55,5 @@ AL FINALIZAR CADA SESIÓN DE JUEGO:
     - Tiempo en total
 - Tabla de puntuaciones ya con datos actualizados
 - Botón de finalizar (regresa al inicio)
-
-README.md (version 1)
+ 
+README.md (version 1.1)
