@@ -8,7 +8,7 @@ export default function SelectorTemas() {
          {TEMAS.map(({ nombre, href }) => (
             <Link
                key={nombre}
-               href={href}
+               href={`/tema/${href}`}
                className="border flex items-center justify-center font-semibold uppercase cursor-pointer rounded-xl p-8"
             >
                {nombre}

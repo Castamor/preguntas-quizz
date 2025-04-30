@@ -1,4 +1,4 @@
-import SelectorTemas from "@/components/SelectorTemas";
+import SelectorTemas from "@components/SelectorTemas";
 
 export default function Home() {
 

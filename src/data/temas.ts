@@ -1,18 +1,18 @@
 export const TEMAS = [
    {
       nombre: 'Programación',
-      href: '/programacion',
+      href: 'programacion',
    },
    {
       nombre: 'Videojuegos',
-      href: '/videojuegos',
+      href: 'videojuegos',
    },
    {
       nombre: 'Astrología',
-      href: '/astrologia',
+      href: 'astrologia',
    },
    {
       nombre: 'Geografía',
-      href: '/geografia',
+      href: 'geografia',
    },
 ]

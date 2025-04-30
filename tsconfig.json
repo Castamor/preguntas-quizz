@@ -24,13 +24,16 @@
       ],
       "paths": {
          "@/*": [
-            "./*"
+            "./src/*"
          ],
          "@app/*": [
-            "./app/*"
+            "./src/app/*"
          ],
          "@components/*": [
-            "./components/*"
+            "./src/components/*"
+         ],
+         "@api/*": [
+            "./src/api/*"
          ],
       }
    },
