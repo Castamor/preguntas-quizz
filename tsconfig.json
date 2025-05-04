@@ -26,15 +26,6 @@
          "@/*": [
             "./src/*"
          ],
-         "@app/*": [
-            "./src/app/*"
-         ],
-         "@components/*": [
-            "./src/components/*"
-         ],
-         "@api/*": [
-            "./src/api/*"
-         ],
       }
    },
    "include": [
