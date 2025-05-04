@@ -1,15 +1,15 @@
 import BotonJugar from "@/components/BotonJugar";
-import SeccionBienvenida from "@/components/SeccionBienvenida";
-import SelectorDificultad from "@/components/SelectorDificultad";
-import SelectorTemas from "@components/SelectorTemas";
+import Bienvenida from "@/components/Bienvenida";
+import Dificultad from "@/components/Dificultad";
+import Temas from "@/components/Temas";
 
-export default function Home() {
+export default async function Home() {
 
    return (
       <>
-         <SeccionBienvenida />
-         <SelectorDificultad />
-         <SelectorTemas />
+         <Bienvenida />
+         <Dificultad />
+         <Temas />
          <BotonJugar />
       </>
    );
