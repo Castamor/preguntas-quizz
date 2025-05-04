@@ -1,0 +1,242 @@
+[
+   {
+      "id": "prog-001",
+      "tema": "programacion",
+      "enunciado": "¿Qué lenguaje se utiliza principalmente para el desarrollo de aplicaciones web del lado del cliente?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Python"
+         },
+         {
+            "id": "b",
+            "texto": "JavaScript"
+         },
+         {
+            "id": "c",
+            "texto": "C++"
+         },
+         {
+            "id": "d",
+            "texto": "Java"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-002",
+      "tema": "programacion",
+      "enunciado": "¿Qué significa HTML?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Hyper Trainer Marking Language"
+         },
+         {
+            "id": "b",
+            "texto": "HyperText Markup Language"
+         },
+         {
+            "id": "c",
+            "texto": "HighText Machine Language"
+         },
+         {
+            "id": "d",
+            "texto": "None of the above"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-003",
+      "tema": "programacion",
+      "enunciado": "¿Cuál de estos no es un tipo de dato en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Boolean"
+         },
+         {
+            "id": "b",
+            "texto": "Undefined"
+         },
+         {
+            "id": "c",
+            "texto": "Float"
+         },
+         {
+            "id": "d",
+            "texto": "String"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-004",
+      "tema": "programacion",
+      "enunciado": "¿Qué hace la función `console.log()` en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Imprime un mensaje en la consola del navegador"
+         },
+         {
+            "id": "b",
+            "texto": "Guarda datos en el servidor"
+         },
+         {
+            "id": "c",
+            "texto": "Muestra una ventana emergente"
+         },
+         {
+            "id": "d",
+            "texto": "Envía una alerta por correo"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prog-005",
+      "tema": "programacion",
+      "enunciado": "¿Qué estructura se utiliza para repetir instrucciones en la mayoría de los lenguajes?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "if"
+         },
+         {
+            "id": "b",
+            "texto": "switch"
+         },
+         {
+            "id": "c",
+            "texto": "while"
+         },
+         {
+            "id": "d",
+            "texto": "try"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-006",
+      "tema": "programacion",
+      "enunciado": "¿Qué lenguaje es más comúnmente usado para inteligencia artificial?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "PHP"
+         },
+         {
+            "id": "b",
+            "texto": "Python"
+         },
+         {
+            "id": "c",
+            "texto": "HTML"
+         },
+         {
+            "id": "d",
+            "texto": "CSS"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-007",
+      "tema": "programacion",
+      "enunciado": "¿Qué significa CSS?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Creative Style Sheets"
+         },
+         {
+            "id": "b",
+            "texto": "Computer Style Sheets"
+         },
+         {
+            "id": "c",
+            "texto": "Cascading Style Sheets"
+         },
+         {
+            "id": "d",
+            "texto": "Colorful Style Sheets"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-008",
+      "tema": "programacion",
+      "enunciado": "¿Cuál de los siguientes frameworks pertenece a JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Laravel"
+         },
+         {
+            "id": "b",
+            "texto": "Django"
+         },
+         {
+            "id": "c",
+            "texto": "React"
+         },
+         {
+            "id": "d",
+            "texto": "Ruby on Rails"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-009",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es el valor de `typeof null` en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "null"
+         },
+         {
+            "id": "b",
+            "texto": "undefined"
+         },
+         {
+            "id": "c",
+            "texto": "object"
+         },
+         {
+            "id": "d",
+            "texto": "boolean"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-010",
+      "tema": "programacion",
+      "enunciado": "¿Qué operador se utiliza para asignar un valor en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "="
+         },
+         {
+            "id": "b",
+            "texto": "=="
+         },
+         {
+            "id": "c",
+            "texto": "==="
+         },
+         {
+            "id": "d",
+            "texto": ":="
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   }
+]
