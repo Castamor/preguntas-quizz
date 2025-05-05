@@ -238,5 +238,4213 @@
          }
       ],
       "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prog-011",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es la función principal de Git?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Desarrollar interfaces gráficas"
+         },
+         {
+            "id": "b",
+            "texto": "Gestionar bases de datos"
+         },
+         {
+            "id": "c",
+            "texto": "Control de versiones de código"
+         },
+         {
+            "id": "d",
+            "texto": "Crear animaciones CSS"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-012",
+      "tema": "programacion",
+      "enunciado": "¿Qué comando de Git se usa para subir cambios al repositorio remoto?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "git pull"
+         },
+         {
+            "id": "b",
+            "texto": "git push"
+         },
+         {
+            "id": "c",
+            "texto": "git commit"
+         },
+         {
+            "id": "d",
+            "texto": "git clone"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-013",
+      "tema": "programacion",
+      "enunciado": "¿Qué hace un `forEach` en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Filtra un array"
+         },
+         {
+            "id": "b",
+            "texto": "Transforma un array"
+         },
+         {
+            "id": "c",
+            "texto": "Ejecuta una función por cada elemento del array"
+         },
+         {
+            "id": "d",
+            "texto": "Elimina elementos de un array"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-014",
+      "tema": "programacion",
+      "enunciado": "¿Qué significa API?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Advanced Programming Interface"
+         },
+         {
+            "id": "b",
+            "texto": "Application Programming Interface"
+         },
+         {
+            "id": "c",
+            "texto": "Applied Program Interaction"
+         },
+         {
+            "id": "d",
+            "texto": "Automated Process Interface"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-015",
+      "tema": "programacion",
+      "enunciado": "¿Qué lenguaje usa el framework Flask?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "JavaScript"
+         },
+         {
+            "id": "b",
+            "texto": "Ruby"
+         },
+         {
+            "id": "c",
+            "texto": "Python"
+         },
+         {
+            "id": "d",
+            "texto": "PHP"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-016",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es el método de array en JavaScript que crea un nuevo arreglo con los resultados de la llamada a una función?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "forEach()"
+         },
+         {
+            "id": "b",
+            "texto": "filter()"
+         },
+         {
+            "id": "c",
+            "texto": "map()"
+         },
+         {
+            "id": "d",
+            "texto": "reduce()"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-017",
+      "tema": "programacion",
+      "enunciado": "¿Qué hace `npm install`?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Inicia una aplicación"
+         },
+         {
+            "id": "b",
+            "texto": "Elimina un paquete"
+         },
+         {
+            "id": "c",
+            "texto": "Instala dependencias desde package.json"
+         },
+         {
+            "id": "d",
+            "texto": "Actualiza Node.js"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-018",
+      "tema": "programacion",
+      "enunciado": "¿Qué significa el acrónimo SQL?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Structured Query Language"
+         },
+         {
+            "id": "b",
+            "texto": "Simple Query Logic"
+         },
+         {
+            "id": "c",
+            "texto": "Sequential Query List"
+         },
+         {
+            "id": "d",
+            "texto": "Standard Query Log"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prog-019",
+      "tema": "programacion",
+      "enunciado": "¿Qué tecnología permite estilos responsivos en CSS?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Transitions"
+         },
+         {
+            "id": "b",
+            "texto": "Keyframes"
+         },
+         {
+            "id": "c",
+            "texto": "Media Queries"
+         },
+         {
+            "id": "d",
+            "texto": "CSS Variables"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-020",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es el valor por defecto de una variable no inicializada en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "null"
+         },
+         {
+            "id": "b",
+            "texto": "0"
+         },
+         {
+            "id": "c",
+            "texto": "false"
+         },
+         {
+            "id": "d",
+            "texto": "undefined"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "prog-021",
+      "tema": "programacion",
+      "enunciado": "¿Cuál de estas es una estructura de control de flujo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "function"
+         },
+         {
+            "id": "b",
+            "texto": "array"
+         },
+         {
+            "id": "c",
+            "texto": "if"
+         },
+         {
+            "id": "d",
+            "texto": "object"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-022",
+      "tema": "programacion",
+      "enunciado": "¿Qué operador se usa para comparar valor y tipo en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "=="
+         },
+         {
+            "id": "b",
+            "texto": "!="
+         },
+         {
+            "id": "c",
+            "texto": "==="
+         },
+         {
+            "id": "d",
+            "texto": "="
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-023",
+      "tema": "programacion",
+      "enunciado": "¿Qué extensión de archivo es común para archivos de TypeScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": ".js"
+         },
+         {
+            "id": "b",
+            "texto": ".jsx"
+         },
+         {
+            "id": "c",
+            "texto": ".ts"
+         },
+         {
+            "id": "d",
+            "texto": ".tsx"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-024",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es el resultado de 2 + '2' en JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "4"
+         },
+         {
+            "id": "b",
+            "texto": "22"
+         },
+         {
+            "id": "c",
+            "texto": "NaN"
+         },
+         {
+            "id": "d",
+            "texto": "Error"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-025",
+      "tema": "programacion",
+      "enunciado": "¿Qué librería de JavaScript se enfoca en la manipulación del DOM?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "jQuery"
+         },
+         {
+            "id": "b",
+            "texto": "Express"
+         },
+         {
+            "id": "c",
+            "texto": "React"
+         },
+         {
+            "id": "d",
+            "texto": "Next.js"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prog-026",
+      "tema": "programacion",
+      "enunciado": "¿Qué motor de JavaScript utiliza Google Chrome?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Rhino"
+         },
+         {
+            "id": "b",
+            "texto": "SpiderMonkey"
+         },
+         {
+            "id": "c",
+            "texto": "V8"
+         },
+         {
+            "id": "d",
+            "texto": "Java VM"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prog-027",
+      "tema": "programacion",
+      "enunciado": "¿Qué herramienta se usa para empaquetar módulos JavaScript?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Docker"
+         },
+         {
+            "id": "b",
+            "texto": "Webpack"
+         },
+         {
+            "id": "c",
+            "texto": "MySQL"
+         },
+         {
+            "id": "d",
+            "texto": "GitHub"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prog-028",
+      "tema": "programacion",
+      "enunciado": "¿Qué es JSX?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Una extensión de JavaScript para trabajar con XML"
+         },
+         {
+            "id": "b",
+            "texto": "Un lenguaje nuevo de JavaScript"
+         },
+         {
+            "id": "c",
+            "texto": "Un preprocesador de CSS"
+         },
+         {
+            "id": "d",
+            "texto": "Un formato de datos como JSON"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prog-029",
+      "tema": "programacion",
+      "enunciado": "¿Qué función de array reduce todos los elementos a un único valor?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "map()"
+         },
+         {
+            "id": "b",
+            "texto": "filter()"
+         },
+         {
+            "id": "c",
+            "texto": "forEach()"
+         },
+         {
+            "id": "d",
+            "texto": "reduce()"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "prog-030",
+      "tema": "programacion",
+      "enunciado": "¿Cuál es el propósito de `useState` en React?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Establecer rutas en una aplicación"
+         },
+         {
+            "id": "b",
+            "texto": "Manejar efectos secundarios"
+         },
+         {
+            "id": "c",
+            "texto": "Manejar el estado de un componente"
+         },
+         {
+            "id": "d",
+            "texto": "Renderizar listas"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-001",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el río más largo del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Amazonas"
+         },
+         {
+            "id": "b",
+            "texto": "Nilo"
+         },
+         {
+            "id": "c",
+            "texto": "Yangtsé"
+         },
+         {
+            "id": "d",
+            "texto": "Misisipi"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-002",
+      "tema": "geografia",
+      "enunciado": "¿En qué continente se encuentra Egipto?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Asia"
+         },
+         {
+            "id": "b",
+            "texto": "Europa"
+         },
+         {
+            "id": "c",
+            "texto": "África"
+         },
+         {
+            "id": "d",
+            "texto": "Oceanía"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-003",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la capital de Australia?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sídney"
+         },
+         {
+            "id": "b",
+            "texto": "Melbourne"
+         },
+         {
+            "id": "c",
+            "texto": "Canberra"
+         },
+         {
+            "id": "d",
+            "texto": "Brisbane"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-004",
+      "tema": "geografia",
+      "enunciado": "¿Qué país tiene la mayor cantidad de habitantes?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "India"
+         },
+         {
+            "id": "b",
+            "texto": "Estados Unidos"
+         },
+         {
+            "id": "c",
+            "texto": "China"
+         },
+         {
+            "id": "d",
+            "texto": "Indonesia"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-005",
+      "tema": "geografia",
+      "enunciado": "¿Qué océano se encuentra al este de África?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Océano Índico"
+         },
+         {
+            "id": "b",
+            "texto": "Océano Pacífico"
+         },
+         {
+            "id": "c",
+            "texto": "Océano Atlántico"
+         },
+         {
+            "id": "d",
+            "texto": "Mar Mediterráneo"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-006",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el país más grande del mundo en superficie?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Canadá"
+         },
+         {
+            "id": "b",
+            "texto": "China"
+         },
+         {
+            "id": "c",
+            "texto": "Estados Unidos"
+         },
+         {
+            "id": "d",
+            "texto": "Rusia"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "geo-007",
+      "tema": "geografia",
+      "enunciado": "¿Qué cordillera separa Europa de Asia?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Alpes"
+         },
+         {
+            "id": "b",
+            "texto": "Cáucaso"
+         },
+         {
+            "id": "c",
+            "texto": "Urales"
+         },
+         {
+            "id": "d",
+            "texto": "Andes"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-008",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la capital de Canadá?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Toronto"
+         },
+         {
+            "id": "b",
+            "texto": "Ottawa"
+         },
+         {
+            "id": "c",
+            "texto": "Vancouver"
+         },
+         {
+            "id": "d",
+            "texto": "Montreal"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-009",
+      "tema": "geografia",
+      "enunciado": "¿Qué desierto es el más grande del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sahara"
+         },
+         {
+            "id": "b",
+            "texto": "Gobi"
+         },
+         {
+            "id": "c",
+            "texto": "Antártico"
+         },
+         {
+            "id": "d",
+            "texto": "Árabe"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-010",
+      "tema": "geografia",
+      "enunciado": "¿Qué país tiene forma de bota?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Grecia"
+         },
+         {
+            "id": "b",
+            "texto": "Italia"
+         },
+         {
+            "id": "c",
+            "texto": "España"
+         },
+         {
+            "id": "d",
+            "texto": "Portugal"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-011",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el país con más islas en el mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Filipinas"
+         },
+         {
+            "id": "b",
+            "texto": "Suecia"
+         },
+         {
+            "id": "c",
+            "texto": "Indonesia"
+         },
+         {
+            "id": "d",
+            "texto": "Japón"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-012",
+      "tema": "geografia",
+      "enunciado": "¿En qué país se encuentra el desierto de Atacama?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Argentina"
+         },
+         {
+            "id": "b",
+            "texto": "Perú"
+         },
+         {
+            "id": "c",
+            "texto": "Chile"
+         },
+         {
+            "id": "d",
+            "texto": "Bolivia"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-013",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la montaña más alta del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "K2"
+         },
+         {
+            "id": "b",
+            "texto": "Everest"
+         },
+         {
+            "id": "c",
+            "texto": "Makalu"
+         },
+         {
+            "id": "d",
+            "texto": "Kangchenjunga"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-014",
+      "tema": "geografia",
+      "enunciado": "¿Qué país no tiene salida al mar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Bolivia"
+         },
+         {
+            "id": "b",
+            "texto": "Colombia"
+         },
+         {
+            "id": "c",
+            "texto": "Brasil"
+         },
+         {
+            "id": "d",
+            "texto": "México"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-015",
+      "tema": "geografia",
+      "enunciado": "¿Qué ciudad es conocida como la Ciudad Eterna?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Atenas"
+         },
+         {
+            "id": "b",
+            "texto": "Roma"
+         },
+         {
+            "id": "c",
+            "texto": "Jerusalén"
+         },
+         {
+            "id": "d",
+            "texto": "El Cairo"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-016",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el país más pequeño del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Mónaco"
+         },
+         {
+            "id": "b",
+            "texto": "San Marino"
+         },
+         {
+            "id": "c",
+            "texto": "Nauru"
+         },
+         {
+            "id": "d",
+            "texto": "Ciudad del Vaticano"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "geo-017",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la capital de Turquía?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Estambul"
+         },
+         {
+            "id": "b",
+            "texto": "Ankara"
+         },
+         {
+            "id": "c",
+            "texto": "Esmirna"
+         },
+         {
+            "id": "d",
+            "texto": "Bursa"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-018",
+      "tema": "geografia",
+      "enunciado": "¿Qué mar está entre Europa y África?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Mar Rojo"
+         },
+         {
+            "id": "b",
+            "texto": "Mar Mediterráneo"
+         },
+         {
+            "id": "c",
+            "texto": "Mar Báltico"
+         },
+         {
+            "id": "d",
+            "texto": "Mar Caspio"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-019",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la capital de Sudáfrica?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Pretoria"
+         },
+         {
+            "id": "b",
+            "texto": "Ciudad del Cabo"
+         },
+         {
+            "id": "c",
+            "texto": "Bloemfontein"
+         },
+         {
+            "id": "d",
+            "texto": "Todas las anteriores"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "geo-020",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el país más poblado de África?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Egipto"
+         },
+         {
+            "id": "b",
+            "texto": "Nigeria"
+         },
+         {
+            "id": "c",
+            "texto": "Sudáfrica"
+         },
+         {
+            "id": "d",
+            "texto": "Etiopía"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-021",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el nombre del canal que conecta el mar Mediterráneo con el mar Rojo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Canal de Panamá"
+         },
+         {
+            "id": "b",
+            "texto": "Canal de Suez"
+         },
+         {
+            "id": "c",
+            "texto": "Canal de la Mancha"
+         },
+         {
+            "id": "d",
+            "texto": "Estrecho de Gibraltar"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-022",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el continente más grande del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "África"
+         },
+         {
+            "id": "b",
+            "texto": "Asia"
+         },
+         {
+            "id": "c",
+            "texto": "América"
+         },
+         {
+            "id": "d",
+            "texto": "Europa"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-023",
+      "tema": "geografia",
+      "enunciado": "¿Qué país es famoso por tener miles de lagos?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Suecia"
+         },
+         {
+            "id": "b",
+            "texto": "Finlandia"
+         },
+         {
+            "id": "c",
+            "texto": "Noruega"
+         },
+         {
+            "id": "d",
+            "texto": "Canadá"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-024",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el único continente sin desierto?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Oceanía"
+         },
+         {
+            "id": "b",
+            "texto": "Europa"
+         },
+         {
+            "id": "c",
+            "texto": "Asia"
+         },
+         {
+            "id": "d",
+            "texto": "América del Norte"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-025",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la capital de Nueva Zelanda?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Auckland"
+         },
+         {
+            "id": "b",
+            "texto": "Wellington"
+         },
+         {
+            "id": "c",
+            "texto": "Christchurch"
+         },
+         {
+            "id": "d",
+            "texto": "Hamilton"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-026",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es la frontera terrestre más larga del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "China - Rusia"
+         },
+         {
+            "id": "b",
+            "texto": "Estados Unidos - México"
+         },
+         {
+            "id": "c",
+            "texto": "Canadá - Estados Unidos"
+         },
+         {
+            "id": "d",
+            "texto": "Brasil - Argentina"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-027",
+      "tema": "geografia",
+      "enunciado": "¿Qué país está completamente rodeado por Sudáfrica?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Lesoto"
+         },
+         {
+            "id": "b",
+            "texto": "Suazilandia"
+         },
+         {
+            "id": "c",
+            "texto": "Botsuana"
+         },
+         {
+            "id": "d",
+            "texto": "Namibia"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-028",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el lago más grande de África?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Lago Victoria"
+         },
+         {
+            "id": "b",
+            "texto": "Lago Tanganica"
+         },
+         {
+            "id": "c",
+            "texto": "Lago Malawi"
+         },
+         {
+            "id": "d",
+            "texto": "Lago Alberto"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-029",
+      "tema": "geografia",
+      "enunciado": "¿Qué isla es la más grande del mundo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Australia"
+         },
+         {
+            "id": "b",
+            "texto": "Groenlandia"
+         },
+         {
+            "id": "c",
+            "texto": "Nueva Guinea"
+         },
+         {
+            "id": "d",
+            "texto": "Borneo"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-030",
+      "tema": "geografia",
+      "enunciado": "¿Cuál es el río que atraviesa París?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Danubio"
+         },
+         {
+            "id": "b",
+            "texto": "Sena"
+         },
+         {
+            "id": "c",
+            "texto": "Rin"
+         },
+         {
+            "id": "d",
+            "texto": "Loira"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-001",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué empresa desarrolló la consola PlayStation?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Microsoft"
+         },
+         {
+            "id": "b",
+            "texto": "Nintendo"
+         },
+         {
+            "id": "c",
+            "texto": "Sony"
+         },
+         {
+            "id": "d",
+            "texto": "Sega"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-002",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el nombre del protagonista de la saga The Legend of Zelda?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Zelda"
+         },
+         {
+            "id": "b",
+            "texto": "Link"
+         },
+         {
+            "id": "c",
+            "texto": "Ganondorf"
+         },
+         {
+            "id": "d",
+            "texto": "Sheik"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-003",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué famoso videojuego tiene como personaje principal a un fontanero italiano?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sonic the Hedgehog"
+         },
+         {
+            "id": "b",
+            "texto": "Donkey Kong"
+         },
+         {
+            "id": "c",
+            "texto": "Super Mario Bros"
+         },
+         {
+            "id": "d",
+            "texto": "Rayman"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-004",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el videojuego más vendido de todos los tiempos?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Minecraft"
+         },
+         {
+            "id": "b",
+            "texto": "GTA V"
+         },
+         {
+            "id": "c",
+            "texto": "Tetris"
+         },
+         {
+            "id": "d",
+            "texto": "Wii Sports"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-005",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué empresa desarrolló el juego Fortnite?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Activision"
+         },
+         {
+            "id": "b",
+            "texto": "Epic Games"
+         },
+         {
+            "id": "c",
+            "texto": "Ubisoft"
+         },
+         {
+            "id": "d",
+            "texto": "EA"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-006",
+      "tema": "videojuegos",
+      "enunciado": "¿En qué videojuego aparece el personaje Master Chief?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Call of Duty"
+         },
+         {
+            "id": "b",
+            "texto": "Halo"
+         },
+         {
+            "id": "c",
+            "texto": "Destiny"
+         },
+         {
+            "id": "d",
+            "texto": "Mass Effect"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-007",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos videojuegos es un battle royale?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Fortnite"
+         },
+         {
+            "id": "b",
+            "texto": "Overwatch"
+         },
+         {
+            "id": "c",
+            "texto": "League of Legends"
+         },
+         {
+            "id": "d",
+            "texto": "The Witcher 3"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-008",
+      "tema": "videojuegos",
+      "enunciado": "¿En qué consola debutó el personaje de Sonic?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "PlayStation"
+         },
+         {
+            "id": "b",
+            "texto": "NES"
+         },
+         {
+            "id": "c",
+            "texto": "Sega Genesis"
+         },
+         {
+            "id": "d",
+            "texto": "Nintendo 64"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-009",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el objetivo principal en el juego Pac-Man?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Comer frutas"
+         },
+         {
+            "id": "b",
+            "texto": "Evitar fantasmas y comer puntos"
+         },
+         {
+            "id": "c",
+            "texto": "Recolectar monedas"
+         },
+         {
+            "id": "d",
+            "texto": "Capturar fantasmas"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-010",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué tipo de juego es League of Legends?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "MMORPG"
+         },
+         {
+            "id": "b",
+            "texto": "FPS"
+         },
+         {
+            "id": "c",
+            "texto": "MOBA"
+         },
+         {
+            "id": "d",
+            "texto": "Survival Horror"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-011",
+      "tema": "videojuegos",
+      "enunciado": "¿En qué saga de videojuegos aparece el personaje Kratos?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "God of War"
+         },
+         {
+            "id": "b",
+            "texto": "Assassin's Creed"
+         },
+         {
+            "id": "c",
+            "texto": "Dark Souls"
+         },
+         {
+            "id": "d",
+            "texto": "Gears of War"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-012",
+      "tema": "videojuegos",
+      "enunciado": "¿Cómo se llama el protagonista de la serie de videojuegos Metal Gear?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Solid Snake"
+         },
+         {
+            "id": "b",
+            "texto": "Sam Fisher"
+         },
+         {
+            "id": "c",
+            "texto": "Big Boss"
+         },
+         {
+            "id": "d",
+            "texto": "Marcus Fenix"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-013",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué famoso simulador de vida fue creado por Will Wright?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "SimCity"
+         },
+         {
+            "id": "b",
+            "texto": "RollerCoaster Tycoon"
+         },
+         {
+            "id": "c",
+            "texto": "The Sims"
+         },
+         {
+            "id": "d",
+            "texto": "Zoo Tycoon"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-014",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué juego popular está ambientado en el mundo de Hyrule?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Final Fantasy"
+         },
+         {
+            "id": "b",
+            "texto": "The Elder Scrolls"
+         },
+         {
+            "id": "c",
+            "texto": "The Legend of Zelda"
+         },
+         {
+            "id": "d",
+            "texto": "Monster Hunter"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-015",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos pertenece al género survival horror?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Resident Evil"
+         },
+         {
+            "id": "b",
+            "texto": "Overcooked"
+         },
+         {
+            "id": "c",
+            "texto": "Rocket League"
+         },
+         {
+            "id": "d",
+            "texto": "Stardew Valley"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-016",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos fue lanzado originalmente para la consola Nintendo 64?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Super Mario 64"
+         },
+         {
+            "id": "b",
+            "texto": "Mario Galaxy"
+         },
+         {
+            "id": "c",
+            "texto": "Mario Odyssey"
+         },
+         {
+            "id": "d",
+            "texto": "Mario Kart Wii"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-017",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué compañía desarrolla la franquicia de videojuegos Assassin's Creed?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Ubisoft"
+         },
+         {
+            "id": "b",
+            "texto": "Square Enix"
+         },
+         {
+            "id": "c",
+            "texto": "Electronic Arts"
+         },
+         {
+            "id": "d",
+            "texto": "Activision"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-018",
+      "tema": "videojuegos",
+      "enunciado": "¿En qué juego puedes atrapar criaturas llamadas Pokémon?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Digimon"
+         },
+         {
+            "id": "b",
+            "texto": "Pokémon"
+         },
+         {
+            "id": "c",
+            "texto": "Yo-Kai Watch"
+         },
+         {
+            "id": "d",
+            "texto": "Monster Rancher"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-019",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué videojuego fue pionero en el género sandbox moderno?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Minecraft"
+         },
+         {
+            "id": "b",
+            "texto": "GTA III"
+         },
+         {
+            "id": "c",
+            "texto": "Roblox"
+         },
+         {
+            "id": "d",
+            "texto": "The Sims"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-020",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos personajes no pertenece a la franquicia de Nintendo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Kirby"
+         },
+         {
+            "id": "b",
+            "texto": "Samus"
+         },
+         {
+            "id": "c",
+            "texto": "Crash Bandicoot"
+         },
+         {
+            "id": "d",
+            "texto": "Fox McCloud"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-021",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el nombre de la princesa que suele ser rescatada por Mario?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Daisy"
+         },
+         {
+            "id": "b",
+            "texto": "Peach"
+         },
+         {
+            "id": "c",
+            "texto": "Rosalina"
+         },
+         {
+            "id": "d",
+            "texto": "Zelda"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-022",
+      "tema": "videojuegos",
+      "enunciado": "¿En qué videojuego se utiliza un pico para recolectar materiales y construir?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Terraria"
+         },
+         {
+            "id": "b",
+            "texto": "Rust"
+         },
+         {
+            "id": "c",
+            "texto": "Minecraft"
+         },
+         {
+            "id": "d",
+            "texto": "Valheim"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-023",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el nombre del villano principal en la serie de videojuegos Sonic?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Dr. Cortex"
+         },
+         {
+            "id": "b",
+            "texto": "Dr. Eggman"
+         },
+         {
+            "id": "c",
+            "texto": "Bowser"
+         },
+         {
+            "id": "d",
+            "texto": "Ganondorf"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-024",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué personaje usa una espada maestra en una conocida saga de videojuegos?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Cloud"
+         },
+         {
+            "id": "b",
+            "texto": "Zelda"
+         },
+         {
+            "id": "c",
+            "texto": "Link"
+         },
+         {
+            "id": "d",
+            "texto": "Sephiroth"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-025",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos fue desarrollado por Hideo Kojima?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Death Stranding"
+         },
+         {
+            "id": "b",
+            "texto": "Resident Evil"
+         },
+         {
+            "id": "c",
+            "texto": "Devil May Cry"
+         },
+         {
+            "id": "d",
+            "texto": "Silent Hill"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-026",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál es el nombre del mundo ficticio en el que se desarrolla la saga Elder Scrolls?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Tamriel"
+         },
+         {
+            "id": "b",
+            "texto": "Westeros"
+         },
+         {
+            "id": "c",
+            "texto": "Nirn"
+         },
+         {
+            "id": "d",
+            "texto": "Azeroth"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-027",
+      "tema": "videojuegos",
+      "enunciado": "¿Qué videojuego popular consiste en colocar palabras en un tablero para obtener puntos?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Tetris"
+         },
+         {
+            "id": "b",
+            "texto": "Scrabble"
+         },
+         {
+            "id": "c",
+            "texto": "Words with Friends"
+         },
+         {
+            "id": "d",
+            "texto": "Boggle"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-028",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos fue lanzado primero?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "The Legend of Zelda: Ocarina of Time"
+         },
+         {
+            "id": "b",
+            "texto": "Final Fantasy VII"
+         },
+         {
+            "id": "c",
+            "texto": "Super Mario 64"
+         },
+         {
+            "id": "d",
+            "texto": "Metal Gear Solid"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-029",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos está centrado en construir y gestionar un parque de atracciones?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Zoo Tycoon"
+         },
+         {
+            "id": "b",
+            "texto": "RollerCoaster Tycoon"
+         },
+         {
+            "id": "c",
+            "texto": "Planet Zoo"
+         },
+         {
+            "id": "d",
+            "texto": "Theme Hospital"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-030",
+      "tema": "videojuegos",
+      "enunciado": "¿Cuál de estos juegos pertenece al género de estrategia en tiempo real?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Age of Empires"
+         },
+         {
+            "id": "b",
+            "texto": "Dark Souls"
+         },
+         {
+            "id": "c",
+            "texto": "FIFA"
+         },
+         {
+            "id": "d",
+            "texto": "Crash Bandicoot"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-001",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Saturno"
+         },
+         {
+            "id": "b",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "c",
+            "texto": "Urano"
+         },
+         {
+            "id": "d",
+            "texto": "Neptuno"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-002",
+      "tema": "astrología",
+      "enunciado": "¿Qué nombre recibe el primer satélite artificial lanzado al espacio?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Apollo 11"
+         },
+         {
+            "id": "b",
+            "texto": "Sputnik 1"
+         },
+         {
+            "id": "c",
+            "texto": "Voyager 1"
+         },
+         {
+            "id": "d",
+            "texto": "Luna 2"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-003",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es el nombre del rover que la NASA envió a Marte en 2021?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Spirit"
+         },
+         {
+            "id": "b",
+            "texto": "Curiosity"
+         },
+         {
+            "id": "c",
+            "texto": "Opportunity"
+         },
+         {
+            "id": "d",
+            "texto": "Perseverance"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "esp-004",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es la estrella más cercana a la Tierra después del Sol?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Alpha Centauri A"
+         },
+         {
+            "id": "b",
+            "texto": "Proxima Centauri"
+         },
+         {
+            "id": "c",
+            "texto": "Sirius"
+         },
+         {
+            "id": "d",
+            "texto": "Betelgeuse"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-005",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene un sistema de anillos prominente y visible desde la Tierra?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Saturno"
+         },
+         {
+            "id": "b",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "c",
+            "texto": "Neptuno"
+         },
+         {
+            "id": "d",
+            "texto": "Urano"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-006",
+      "tema": "astrología",
+      "enunciado": "¿Qué cuerpo celeste fue reclasificado como planeta enano en 2006?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Plutón"
+         },
+         {
+            "id": "b",
+            "texto": "Ceres"
+         },
+         {
+            "id": "c",
+            "texto": "Eris"
+         },
+         {
+            "id": "d",
+            "texto": "Haumea"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-007",
+      "tema": "astrología",
+      "enunciado": "¿Qué misión llevó al primer ser humano a la Luna?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Apollo 11"
+         },
+         {
+            "id": "b",
+            "texto": "Gemini 4"
+         },
+         {
+            "id": "c",
+            "texto": "Mercury 6"
+         },
+         {
+            "id": "d",
+            "texto": "Apollo 13"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-008",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Mercurio"
+         },
+         {
+            "id": "b",
+            "texto": "Venus"
+         },
+         {
+            "id": "c",
+            "texto": "Marte"
+         },
+         {
+            "id": "d",
+            "texto": "Júpiter"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "esp-009",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es el nombre del telescopio espacial lanzado en 1990?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Hubble"
+         },
+         {
+            "id": "b",
+            "texto": "Kepler"
+         },
+         {
+            "id": "c",
+            "texto": "James Webb"
+         },
+         {
+            "id": "d",
+            "texto": "Chandra"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-010",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene la rotación más rápida del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Saturno"
+         },
+         {
+            "id": "b",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "c",
+            "texto": "Neptuno"
+         },
+         {
+            "id": "d",
+            "texto": "Tierra"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-011",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es el único satélite natural de la Tierra?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Europa"
+         },
+         {
+            "id": "b",
+            "texto": "Luna"
+         },
+         {
+            "id": "c",
+            "texto": "Fobos"
+         },
+         {
+            "id": "d",
+            "texto": "Titán"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-012",
+      "tema": "astrología",
+      "enunciado": "¿Cuál es el planeta más cercano al Sol?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Venus"
+         },
+         {
+            "id": "b",
+            "texto": "Tierra"
+         },
+         {
+            "id": "c",
+            "texto": "Mercurio"
+         },
+         {
+            "id": "d",
+            "texto": "Marte"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "esp-013",
+      "tema": "astrología",
+      "enunciado": "¿Cómo se llama el sistema de clasificación estelar basado en la temperatura?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Escala de Kelvin"
+         },
+         {
+            "id": "b",
+            "texto": "Clasificación OBAFGKM"
+         },
+         {
+            "id": "c",
+            "texto": "Magnitud aparente"
+         },
+         {
+            "id": "d",
+            "texto": "Escala Hertzsprung-Russell"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-014",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene el día más largo (rotación más lenta) del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Venus"
+         },
+         {
+            "id": "b",
+            "texto": "Mercurio"
+         },
+         {
+            "id": "c",
+            "texto": "Urano"
+         },
+         {
+            "id": "d",
+            "texto": "Saturno"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-015",
+      "tema": "astrología",
+      "enunciado": "¿Qué galaxia es vecina de la Vía Láctea y visible a simple vista desde el hemisferio sur?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Galaxia de Andrómeda"
+         },
+         {
+            "id": "b",
+            "texto": "Gran Nube de Magallanes"
+         },
+         {
+            "id": "c",
+            "texto": "Pequeña Nube de Magallanes"
+         },
+         {
+            "id": "d",
+            "texto": "Galaxia del Triángulo"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-016",
+      "tema": "astrología",
+      "enunciado": "¿Qué astrónomo propuso por primera vez que la Tierra gira alrededor del Sol?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Galileo Galilei"
+         },
+         {
+            "id": "b",
+            "texto": "Isaac Newton"
+         },
+         {
+            "id": "c",
+            "texto": "Johannes Kepler"
+         },
+         {
+            "id": "d",
+            "texto": "Nicolás Copérnico"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "esp-017",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene los vientos más rápidos del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "b",
+            "texto": "Neptuno"
+         },
+         {
+            "id": "c",
+            "texto": "Saturno"
+         },
+         {
+            "id": "d",
+            "texto": "Urano"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-018",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta rota sobre su costado con un eje inclinado casi 98 grados?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Neptuno"
+         },
+         {
+            "id": "b",
+            "texto": "Saturno"
+         },
+         {
+            "id": "c",
+            "texto": "Urano"
+         },
+         {
+            "id": "d",
+            "texto": "Júpiter"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "esp-019",
+      "tema": "astrología",
+      "enunciado": "¿Qué tipo de objeto astronómico es el Sol?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Gigante roja"
+         },
+         {
+            "id": "b",
+            "texto": "Enana blanca"
+         },
+         {
+            "id": "c",
+            "texto": "Estrella de neutrones"
+         },
+         {
+            "id": "d",
+            "texto": "Enana amarilla"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "esp-020",
+      "tema": "astrología",
+      "enunciado": "¿Qué misión espacial fue la primera en salir del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Pioneer 10"
+         },
+         {
+            "id": "b",
+            "texto": "Voyager 1"
+         },
+         {
+            "id": "c",
+            "texto": "Voyager 2"
+         },
+         {
+            "id": "d",
+            "texto": "New Horizons"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-021",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene una atmósfera compuesta principalmente de dióxido de carbono y una temperatura superficial extremadamente alta?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Venus"
+         },
+         {
+            "id": "b",
+            "texto": "Mercurio"
+         },
+         {
+            "id": "c",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "d",
+            "texto": "Tierra"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-022",
+      "tema": "astrología",
+      "enunciado": "¿Qué fenómeno ocurre cuando la Luna se interpone entre el Sol y la Tierra?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Eclipse lunar"
+         },
+         {
+            "id": "b",
+            "texto": "Eclipse solar"
+         },
+         {
+            "id": "c",
+            "texto": "Marea alta"
+         },
+         {
+            "id": "d",
+            "texto": "Albedo"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-023",
+      "tema": "astrología",
+      "enunciado": "¿Cómo se llama el punto en el cielo directamente sobre la cabeza de un observador?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Nadir"
+         },
+         {
+            "id": "b",
+            "texto": "Horizonte"
+         },
+         {
+            "id": "c",
+            "texto": "Zenit"
+         },
+         {
+            "id": "d",
+            "texto": "Meridiano"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "esp-024",
+      "tema": "astrología",
+      "enunciado": "¿Qué instrumento se utiliza para observar objetos celestes desde la Tierra?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Espectroscopio"
+         },
+         {
+            "id": "b",
+            "texto": "Telescopio"
+         },
+         {
+            "id": "c",
+            "texto": "Microscopio"
+         },
+         {
+            "id": "d",
+            "texto": "Radar"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-025",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta tiene la mayor cantidad de lunas conocidas?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "b",
+            "texto": "Saturno"
+         },
+         {
+            "id": "c",
+            "texto": "Urano"
+         },
+         {
+            "id": "d",
+            "texto": "Neptuno"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-026",
+      "tema": "astrología",
+      "enunciado": "¿Qué tipo de objeto es un cometa?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Una estrella"
+         },
+         {
+            "id": "b",
+            "texto": "Un planeta menor con núcleo de hielo y polvo"
+         },
+         {
+            "id": "c",
+            "texto": "Una luna"
+         },
+         {
+            "id": "d",
+            "texto": "Un agujero negro"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "esp-027",
+      "tema": "astrología",
+      "enunciado": "¿Qué planeta gira en dirección opuesta a la mayoría de los otros planetas del sistema solar?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Venus"
+         },
+         {
+            "id": "b",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "c",
+            "texto": "Tierra"
+         },
+         {
+            "id": "d",
+            "texto": "Neptuno"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "esp-028",
+      "tema": "astrología",
+      "enunciado": "¿Cómo se llama la zona habitable alrededor de una estrella donde puede existir agua líquida?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Zona crítica"
+         },
+         {
+            "id": "b",
+            "texto": "Zona dorada"
+         },
+         {
+            "id": "c",
+            "texto": "Zona de vida"
+         },
+         {
+            "id": "d",
+            "texto": "Zona habitable"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "esp-029",
+      "tema": "astrología",
+      "enunciado": "¿Qué nombre recibe una estrella al final de su vida cuando colapsa y su gravedad impide que incluso la luz escape?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Enana blanca"
+         },
+         {
+            "id": "b",
+            "texto": "Estrella de neutrones"
+         },
+         {
+            "id": "c",
+            "texto": "Agujero negro"
+         },
+         {
+            "id": "d",
+            "texto": "Nova"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "esp-030",
+      "tema": "astrología",
+      "enunciado": "¿Qué satélite natural de Júpiter es famoso por su actividad volcánica extrema?",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Europa"
+         },
+         {
+            "id": "b",
+            "texto": "Ganímedes"
+         },
+         {
+            "id": "c",
+            "texto": "Ío"
+         },
+         {
+            "id": "d",
+            "texto": "Calisto"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-101",
+      "tema": "videojuegos",
+      "enunciado": "El videojuego 'Pac-Man' fue lanzado en los años 80.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-102",
+      "tema": "videojuegos",
+      "enunciado": "El juego 'Minecraft' fue creado por Markus Persson.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-103",
+      "tema": "videojuegos",
+      "enunciado": "El protagonista de la saga 'The Legend of Zelda' se llama Zelda.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-104",
+      "tema": "videojuegos",
+      "enunciado": "Sony creó la consola Xbox.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vg-105",
+      "tema": "videojuegos",
+      "enunciado": "La saga de videojuegos 'Assassin’s Creed' está basada en ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Asesinos históricos"
+         },
+         {
+            "id": "b",
+            "texto": "Vikingos"
+         },
+         {
+            "id": "c",
+            "texto": "Naves espaciales"
+         },
+         {
+            "id": "d",
+            "texto": "Animales parlantes"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-106",
+      "tema": "videojuegos",
+      "enunciado": "El personaje 'Sonic' es una ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Liebre"
+         },
+         {
+            "id": "b",
+            "texto": "Zorro"
+         },
+         {
+            "id": "c",
+            "texto": "Erizo"
+         },
+         {
+            "id": "d",
+            "texto": "Perro"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-107",
+      "tema": "videojuegos",
+      "enunciado": "La empresa creadora de 'League of Legends' se llama ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Riot Games"
+         },
+         {
+            "id": "b",
+            "texto": "Epic Games"
+         },
+         {
+            "id": "c",
+            "texto": "Valve"
+         },
+         {
+            "id": "d",
+            "texto": "Ubisoft"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-108",
+      "tema": "videojuegos",
+      "enunciado": "La princesa Peach es un personaje de la saga de ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Zelda"
+         },
+         {
+            "id": "b",
+            "texto": "Metroid"
+         },
+         {
+            "id": "c",
+            "texto": "Mario"
+         },
+         {
+            "id": "d",
+            "texto": "Final Fantasy"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vg-109",
+      "tema": "videojuegos",
+      "enunciado": "En el videojuego 'Among Us', el impostor debe evitar ser descubierto.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vg-110",
+      "tema": "videojuegos",
+      "enunciado": "El videojuego 'Overwatch' fue desarrollado por Blizzard.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-111",
+      "tema": "videojuegos",
+      "enunciado": "La empresa que desarrolló *Minecraft* es Mojang.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-112",
+      "tema": "videojuegos",
+      "enunciado": "El videojuego *The Legend of Zelda: Breath of the Wild* se lanzó en el año ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "2015"
+         },
+         {
+            "id": "b",
+            "texto": "2016"
+         },
+         {
+            "id": "c",
+            "texto": "2017"
+         },
+         {
+            "id": "d",
+            "texto": "2018"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vid-113",
+      "tema": "videojuegos",
+      "enunciado": "El juego *Among Us* fue lanzado antes del 2020.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-114",
+      "tema": "videojuegos",
+      "enunciado": "El personaje principal de la serie *Halo* se llama ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Master Soldier"
+         },
+         {
+            "id": "b",
+            "texto": "Captain Falcon"
+         },
+         {
+            "id": "c",
+            "texto": "Master Chief"
+         },
+         {
+            "id": "d",
+            "texto": "John Spartan"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vid-115",
+      "tema": "videojuegos",
+      "enunciado": "La franquicia *Call of Duty* comenzó con un enfoque en la Segunda Guerra Mundial.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-116",
+      "tema": "videojuegos",
+      "enunciado": "En *Pokémon*, Pikachu es un Pokémon de tipo ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Fuego"
+         },
+         {
+            "id": "b",
+            "texto": "Agua"
+         },
+         {
+            "id": "c",
+            "texto": "Eléctrico"
+         },
+         {
+            "id": "d",
+            "texto": "Planta"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "vid-117",
+      "tema": "videojuegos",
+      "enunciado": "La saga *Dark Souls* es conocida por su baja dificultad.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "vid-118",
+      "tema": "videojuegos",
+      "enunciado": "*Tetris* fue creado en ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Rusia"
+         },
+         {
+            "id": "b",
+            "texto": "Japón"
+         },
+         {
+            "id": "c",
+            "texto": "Estados Unidos"
+         },
+         {
+            "id": "d",
+            "texto": "Alemania"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-119",
+      "tema": "videojuegos",
+      "enunciado": "En *Super Mario Bros*, el hermano de Mario se llama Luigi.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "vid-120",
+      "tema": "videojuegos",
+      "enunciado": "El nombre del mundo principal en *The Elder Scrolls V: Skyrim* es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Tamriel"
+         },
+         {
+            "id": "b",
+            "texto": "Hyrule"
+         },
+         {
+            "id": "c",
+            "texto": "Skyrim"
+         },
+         {
+            "id": "d",
+            "texto": "Midgard"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prg-101",
+      "tema": "programación",
+      "enunciado": "JavaScript fue creado en 10 días.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prg-102",
+      "tema": "programación",
+      "enunciado": "Python es un lenguaje tipado estáticamente.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prg-103",
+      "tema": "programación",
+      "enunciado": "HTML es un lenguaje de programación.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prg-104",
+      "tema": "programación",
+      "enunciado": "La palabra clave 'let' en JavaScript permite definir variables de alcance ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "global"
+         },
+         {
+            "id": "b",
+            "texto": "de bloque"
+         },
+         {
+            "id": "c",
+            "texto": "estático"
+         },
+         {
+            "id": "d",
+            "texto": "clásico"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prg-105",
+      "tema": "programación",
+      "enunciado": "React es una biblioteca de ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "manejo de bases de datos"
+         },
+         {
+            "id": "b",
+            "texto": "interfaces de usuario"
+         },
+         {
+            "id": "c",
+            "texto": "automatización de tareas"
+         },
+         {
+            "id": "d",
+            "texto": "scripting backend"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prg-106",
+      "tema": "programación",
+      "enunciado": "En programación, el acrónimo 'API' significa ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Automatic Process Integration"
+         },
+         {
+            "id": "b",
+            "texto": "Application Programming Interface"
+         },
+         {
+            "id": "c",
+            "texto": "Advanced Program Index"
+         },
+         {
+            "id": "d",
+            "texto": "Array Processing Input"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "prg-107",
+      "tema": "programación",
+      "enunciado": "Un 'bug' en programación se refiere a un error en el código.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prg-108",
+      "tema": "programación",
+      "enunciado": "TypeScript es un superconjunto de JavaScript.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "prg-109",
+      "tema": "programación",
+      "enunciado": "En SQL, la instrucción para obtener todos los registros de una tabla es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "FIND * FROM tabla"
+         },
+         {
+            "id": "b",
+            "texto": "SELECT ALL FROM tabla"
+         },
+         {
+            "id": "c",
+            "texto": "SELECT * FROM tabla"
+         },
+         {
+            "id": "d",
+            "texto": "SHOW ALL FROM tabla"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "prg-110",
+      "tema": "programación",
+      "enunciado": "En Git, el comando para clonar un repositorio es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "git pull"
+         },
+         {
+            "id": "b",
+            "texto": "git copy"
+         },
+         {
+            "id": "c",
+            "texto": "git clone"
+         },
+         {
+            "id": "d",
+            "texto": "git fork"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "pro-111",
+      "tema": "programación",
+      "enunciado": "JavaScript fue creado en solo 10 días.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-112",
+      "tema": "programación",
+      "enunciado": "Python usa la palabra clave ________ para definir funciones.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "function"
+         },
+         {
+            "id": "b",
+            "texto": "def"
+         },
+         {
+            "id": "c",
+            "texto": "fun"
+         },
+         {
+            "id": "d",
+            "texto": "lambda"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "pro-113",
+      "tema": "programación",
+      "enunciado": "El lenguaje C fue desarrollado antes que Java.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-114",
+      "tema": "programación",
+      "enunciado": "La estructura de control en Java que se usa para múltiples condiciones es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "if-else"
+         },
+         {
+            "id": "b",
+            "texto": "switch"
+         },
+         {
+            "id": "c",
+            "texto": "while"
+         },
+         {
+            "id": "d",
+            "texto": "do-while"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "pro-115",
+      "tema": "programación",
+      "enunciado": "CSS es un lenguaje de programación.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "pro-116",
+      "tema": "programación",
+      "enunciado": "El operador lógico AND en JavaScript es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "&&"
+         },
+         {
+            "id": "b",
+            "texto": "||"
+         },
+         {
+            "id": "c",
+            "texto": "&"
+         },
+         {
+            "id": "d",
+            "texto": "and"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-117",
+      "tema": "programación",
+      "enunciado": "Git es una herramienta de control de versiones.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-118",
+      "tema": "programación",
+      "enunciado": "HTML significa ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "HyperText Markup Language"
+         },
+         {
+            "id": "b",
+            "texto": "HighText Machine Language"
+         },
+         {
+            "id": "c",
+            "texto": "HyperTransfer Main Language"
+         },
+         {
+            "id": "d",
+            "texto": "None of the above"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-119",
+      "tema": "programación",
+      "enunciado": "La extensión de archivo para un script en Python es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": ".py"
+         },
+         {
+            "id": "b",
+            "texto": ".js"
+         },
+         {
+            "id": "c",
+            "texto": ".html"
+         },
+         {
+            "id": "d",
+            "texto": ".java"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "pro-120",
+      "tema": "programación",
+      "enunciado": "Una función que se llama a sí misma se denomina recursiva.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-101",
+      "tema": "geografía",
+      "enunciado": "El río Amazonas es el más largo del mundo.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-102",
+      "tema": "geografía",
+      "enunciado": "Canberra es la capital de Australia.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-103",
+      "tema": "geografía",
+      "enunciado": "La cordillera de los Andes se encuentra en ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "África"
+         },
+         {
+            "id": "b",
+            "texto": "Asia"
+         },
+         {
+            "id": "c",
+            "texto": "América del Sur"
+         },
+         {
+            "id": "d",
+            "texto": "Europa"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-104",
+      "tema": "geografía",
+      "enunciado": "Tokio es la ciudad más poblada del mundo.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-105",
+      "tema": "geografía",
+      "enunciado": "El Monte Everest está ubicado en ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "India"
+         },
+         {
+            "id": "b",
+            "texto": "Tíbet/Nepal"
+         },
+         {
+            "id": "c",
+            "texto": "China"
+         },
+         {
+            "id": "d",
+            "texto": "Pakistán"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-106",
+      "tema": "geografía",
+      "enunciado": "El Desierto del Sahara está en América.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-107",
+      "tema": "geografía",
+      "enunciado": "Rusia es el país más grande del mundo por superficie.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-108",
+      "tema": "geografía",
+      "enunciado": "La capital de Canadá es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Toronto"
+         },
+         {
+            "id": "b",
+            "texto": "Montreal"
+         },
+         {
+            "id": "c",
+            "texto": "Vancouver"
+         },
+         {
+            "id": "d",
+            "texto": "Ottawa"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "geo-109",
+      "tema": "geografía",
+      "enunciado": "El Mar Muerto está ubicado entre Israel y Jordania.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-110",
+      "tema": "geografía",
+      "enunciado": "La isla más grande del mundo es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Australia"
+         },
+         {
+            "id": "b",
+            "texto": "Groenlandia"
+         },
+         {
+            "id": "c",
+            "texto": "Madagascar"
+         },
+         {
+            "id": "d",
+            "texto": "Islandia"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "geo-111",
+      "tema": "geografía",
+      "enunciado": "El país más grande del mundo por superficie es Rusia.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-112",
+      "tema": "geografía",
+      "enunciado": "La capital de Australia es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sídney"
+         },
+         {
+            "id": "b",
+            "texto": "Melbourne"
+         },
+         {
+            "id": "c",
+            "texto": "Brisbane"
+         },
+         {
+            "id": "d",
+            "texto": "Canberra"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "geo-113",
+      "tema": "geografía",
+      "enunciado": "El monte Everest se encuentra en la frontera entre Nepal y China.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-114",
+      "tema": "geografía",
+      "enunciado": "El desierto más grande del mundo es el ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sahara"
+         },
+         {
+            "id": "b",
+            "texto": "Gobi"
+         },
+         {
+            "id": "c",
+            "texto": "Antártico"
+         },
+         {
+            "id": "d",
+            "texto": "Ártico"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "geo-115",
+      "tema": "geografía",
+      "enunciado": "El río más largo del mundo es el Amazonas.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-116",
+      "tema": "geografía",
+      "enunciado": "El país con más población del mundo es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "India"
+         },
+         {
+            "id": "b",
+            "texto": "Estados Unidos"
+         },
+         {
+            "id": "c",
+            "texto": "China"
+         },
+         {
+            "id": "d",
+            "texto": "Indonesia"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-117",
+      "tema": "geografía",
+      "enunciado": "Los Andes son una cordillera que atraviesa Sudamérica de norte a sur.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-118",
+      "tema": "geografía",
+      "enunciado": "El país con más islas del mundo es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Suecia"
+         },
+         {
+            "id": "b",
+            "texto": "Canadá"
+         },
+         {
+            "id": "c",
+            "texto": "Indonesia"
+         },
+         {
+            "id": "d",
+            "texto": "Japón"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-119",
+      "tema": "geografía",
+      "enunciado": "El océano más grande del mundo es el Océano Pacífico.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "geo-120",
+      "tema": "geografía",
+      "enunciado": "El continente con menos países es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Oceanía"
+         },
+         {
+            "id": "b",
+            "texto": "Europa"
+         },
+         {
+            "id": "c",
+            "texto": "América"
+         },
+         {
+            "id": "d",
+            "texto": "Antártida"
+         }
+      ],
+      "idRespuestaCorrecta": "d"
+   },
+   {
+      "id": "ast-101",
+      "tema": "astrología",
+      "enunciado": "La Vía Láctea es una galaxia espiral.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-102",
+      "tema": "astrología",
+      "enunciado": "Plutón es considerado actualmente un planeta en el sistema solar.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-103",
+      "tema": "astrología",
+      "enunciado": "La NASA fue fundada en el año ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "1958"
+         },
+         {
+            "id": "b",
+            "texto": "1969"
+         },
+         {
+            "id": "c",
+            "texto": "1945"
+         },
+         {
+            "id": "d",
+            "texto": "1971"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-104",
+      "tema": "astrología",
+      "enunciado": "La atmósfera de Marte contiene principalmente dióxido de carbono.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-105",
+      "tema": "astrología",
+      "enunciado": "La Tierra gira alrededor del Sol en aproximadamente ________ días.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "360"
+         },
+         {
+            "id": "b",
+            "texto": "365"
+         },
+         {
+            "id": "c",
+            "texto": "366"
+         },
+         {
+            "id": "d",
+            "texto": "370"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-106",
+      "tema": "astrología",
+      "enunciado": "Júpiter es el planeta más grande del sistema solar.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-107",
+      "tema": "astrología",
+      "enunciado": "La primera misión tripulada que llegó a la Luna fue ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Apollo 9"
+         },
+         {
+            "id": "b",
+            "texto": "Apollo 11"
+         },
+         {
+            "id": "c",
+            "texto": "Apollo 13"
+         },
+         {
+            "id": "d",
+            "texto": "Gemini 7"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-108",
+      "tema": "astrología",
+      "enunciado": "El telescopio espacial Hubble fue lanzado al espacio en 1990.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-109",
+      "tema": "astrología",
+      "enunciado": "Neptuno es conocido por su color ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "rojo"
+         },
+         {
+            "id": "b",
+            "texto": "azul"
+         },
+         {
+            "id": "c",
+            "texto": "amarillo"
+         },
+         {
+            "id": "d",
+            "texto": "verde"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-110",
+      "tema": "astrología",
+      "enunciado": "Un año luz es una medida de tiempo.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-111",
+      "tema": "astrología",
+      "enunciado": "El Sol es una estrella de tipo espectral G.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-112",
+      "tema": "astrología",
+      "enunciado": "La sonda Voyager 1 fue lanzada en el año ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "1977"
+         },
+         {
+            "id": "b",
+            "texto": "1983"
+         },
+         {
+            "id": "c",
+            "texto": "1969"
+         },
+         {
+            "id": "d",
+            "texto": "1991"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-113",
+      "tema": "astrología",
+      "enunciado": "El cinturón de asteroides se encuentra entre Marte y Júpiter.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-114",
+      "tema": "astrología",
+      "enunciado": "El planeta más cercano al Sol es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Venus"
+         },
+         {
+            "id": "b",
+            "texto": "Marte"
+         },
+         {
+            "id": "c",
+            "texto": "Mercurio"
+         },
+         {
+            "id": "d",
+            "texto": "Tierra"
+         }
+      ],
+      "idRespuestaCorrecta": "c"
+   },
+   {
+      "id": "ast-115",
+      "tema": "astrología",
+      "enunciado": "Saturno tiene más de 80 lunas.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-116",
+      "tema": "astrología",
+      "enunciado": "El universo se encuentra en constante expansión.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-117",
+      "tema": "astrología",
+      "enunciado": "El planeta rojo es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Marte"
+         },
+         {
+            "id": "b",
+            "texto": "Venus"
+         },
+         {
+            "id": "c",
+            "texto": "Júpiter"
+         },
+         {
+            "id": "d",
+            "texto": "Saturno"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-118",
+      "tema": "astrología",
+      "enunciado": "La Estación Espacial Internacional (EEI) orbita la Tierra aproximadamente cada 90 minutos.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
+   },
+   {
+      "id": "ast-119",
+      "tema": "astrología",
+      "enunciado": "La estrella más cercana al sistema solar, después del Sol, es ________.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Sirius"
+         },
+         {
+            "id": "b",
+            "texto": "Proxima Centauri"
+         },
+         {
+            "id": "c",
+            "texto": "Vega"
+         },
+         {
+            "id": "d",
+            "texto": "Betelgeuse"
+         }
+      ],
+      "idRespuestaCorrecta": "b"
+   },
+   {
+      "id": "ast-120",
+      "tema": "astrología",
+      "enunciado": "Una supernova es una fase final en la vida de algunas estrellas.",
+      "respuestas": [
+         {
+            "id": "a",
+            "texto": "Verdadero"
+         },
+         {
+            "id": "b",
+            "texto": "Falso"
+         }
+      ],
+      "idRespuestaCorrecta": "a"
    }
 ]
