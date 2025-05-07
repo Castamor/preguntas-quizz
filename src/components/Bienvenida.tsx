@@ -1,4 +1,4 @@
-export default function SeccionBienvenida() {
+export default function Bienvenida() {
 
    return (
       <div>
