@@ -1,0 +1,4262 @@
+{
+   "preguntas": {
+      "programacion": [
+         {
+            "id": "prog-001",
+            "enunciado": "¿Qué lenguaje se utiliza principalmente para el desarrollo de aplicaciones web del lado del cliente?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Python"
+               },
+               {
+                  "id": "b",
+                  "texto": "JavaScript"
+               },
+               {
+                  "id": "c",
+                  "texto": "C++"
+               },
+               {
+                  "id": "d",
+                  "texto": "Java"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-002",
+            "enunciado": "¿Qué significa HTML?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Hyper Trainer Marking Language"
+               },
+               {
+                  "id": "b",
+                  "texto": "HyperText Markup Language"
+               },
+               {
+                  "id": "c",
+                  "texto": "HighText Machine Language"
+               },
+               {
+                  "id": "d",
+                  "texto": "None of the above"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-003",
+            "enunciado": "¿Cuál de estos no es un tipo de dato en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Boolean"
+               },
+               {
+                  "id": "b",
+                  "texto": "Undefined"
+               },
+               {
+                  "id": "c",
+                  "texto": "Float"
+               },
+               {
+                  "id": "d",
+                  "texto": "String"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-004",
+            "enunciado": "¿Qué hace la función `console.log()` en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Imprime un mensaje en la consola del navegador"
+               },
+               {
+                  "id": "b",
+                  "texto": "Guarda datos en el servidor"
+               },
+               {
+                  "id": "c",
+                  "texto": "Muestra una ventana emergente"
+               },
+               {
+                  "id": "d",
+                  "texto": "Envía una alerta por correo"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prog-005",
+            "enunciado": "¿Qué estructura se utiliza para repetir instrucciones en la mayoría de los lenguajes?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "if"
+               },
+               {
+                  "id": "b",
+                  "texto": "switch"
+               },
+               {
+                  "id": "c",
+                  "texto": "while"
+               },
+               {
+                  "id": "d",
+                  "texto": "try"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-006",
+            "enunciado": "¿Qué lenguaje es más comúnmente usado para inteligencia artificial?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "PHP"
+               },
+               {
+                  "id": "b",
+                  "texto": "Python"
+               },
+               {
+                  "id": "c",
+                  "texto": "HTML"
+               },
+               {
+                  "id": "d",
+                  "texto": "CSS"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-007",
+            "enunciado": "¿Qué significa CSS?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Creative Style Sheets"
+               },
+               {
+                  "id": "b",
+                  "texto": "Computer Style Sheets"
+               },
+               {
+                  "id": "c",
+                  "texto": "Cascading Style Sheets"
+               },
+               {
+                  "id": "d",
+                  "texto": "Colorful Style Sheets"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-008",
+            "enunciado": "¿Cuál de los siguientes frameworks pertenece a JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Laravel"
+               },
+               {
+                  "id": "b",
+                  "texto": "Django"
+               },
+               {
+                  "id": "c",
+                  "texto": "React"
+               },
+               {
+                  "id": "d",
+                  "texto": "Ruby on Rails"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-009",
+            "enunciado": "¿Cuál es el valor de `typeof null` en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "null"
+               },
+               {
+                  "id": "b",
+                  "texto": "undefined"
+               },
+               {
+                  "id": "c",
+                  "texto": "object"
+               },
+               {
+                  "id": "d",
+                  "texto": "boolean"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-010",
+            "enunciado": "¿Qué operador se utiliza para asignar un valor en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "="
+               },
+               {
+                  "id": "b",
+                  "texto": "=="
+               },
+               {
+                  "id": "c",
+                  "texto": "==="
+               },
+               {
+                  "id": "d",
+                  "texto": ":="
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prog-011",
+            "enunciado": "¿Cuál es la función principal de Git?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Desarrollar interfaces gráficas"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gestionar bases de datos"
+               },
+               {
+                  "id": "c",
+                  "texto": "Control de versiones de código"
+               },
+               {
+                  "id": "d",
+                  "texto": "Crear animaciones CSS"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-012",
+            "enunciado": "¿Qué comando de Git se usa para subir cambios al repositorio remoto?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "git pull"
+               },
+               {
+                  "id": "b",
+                  "texto": "git push"
+               },
+               {
+                  "id": "c",
+                  "texto": "git commit"
+               },
+               {
+                  "id": "d",
+                  "texto": "git clone"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-013",
+            "enunciado": "¿Qué hace un `forEach` en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Filtra un array"
+               },
+               {
+                  "id": "b",
+                  "texto": "Transforma un array"
+               },
+               {
+                  "id": "c",
+                  "texto": "Ejecuta una función por cada elemento del array"
+               },
+               {
+                  "id": "d",
+                  "texto": "Elimina elementos de un array"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-014",
+            "enunciado": "¿Qué significa API?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Advanced Programming Interface"
+               },
+               {
+                  "id": "b",
+                  "texto": "Application Programming Interface"
+               },
+               {
+                  "id": "c",
+                  "texto": "Applied Program Interaction"
+               },
+               {
+                  "id": "d",
+                  "texto": "Automated Process Interface"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-015",
+            "enunciado": "¿Qué lenguaje usa el framework Flask?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "JavaScript"
+               },
+               {
+                  "id": "b",
+                  "texto": "Ruby"
+               },
+               {
+                  "id": "c",
+                  "texto": "Python"
+               },
+               {
+                  "id": "d",
+                  "texto": "PHP"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-016",
+            "enunciado": "¿Cuál es el método de array en JavaScript que crea un nuevo arreglo con los resultados de la llamada a una función?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "forEach()"
+               },
+               {
+                  "id": "b",
+                  "texto": "filter()"
+               },
+               {
+                  "id": "c",
+                  "texto": "map()"
+               },
+               {
+                  "id": "d",
+                  "texto": "reduce()"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-017",
+            "enunciado": "¿Qué hace `npm install`?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Inicia una aplicación"
+               },
+               {
+                  "id": "b",
+                  "texto": "Elimina un paquete"
+               },
+               {
+                  "id": "c",
+                  "texto": "Instala dependencias desde package.json"
+               },
+               {
+                  "id": "d",
+                  "texto": "Actualiza Node.js"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-018",
+            "enunciado": "¿Qué significa el acrónimo SQL?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Structured Query Language"
+               },
+               {
+                  "id": "b",
+                  "texto": "Simple Query Logic"
+               },
+               {
+                  "id": "c",
+                  "texto": "Sequential Query List"
+               },
+               {
+                  "id": "d",
+                  "texto": "Standard Query Log"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prog-019",
+            "enunciado": "¿Qué tecnología permite estilos responsivos en CSS?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Transitions"
+               },
+               {
+                  "id": "b",
+                  "texto": "Keyframes"
+               },
+               {
+                  "id": "c",
+                  "texto": "Media Queries"
+               },
+               {
+                  "id": "d",
+                  "texto": "CSS Variables"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-020",
+            "enunciado": "¿Cuál es el valor por defecto de una variable no inicializada en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "null"
+               },
+               {
+                  "id": "b",
+                  "texto": "0"
+               },
+               {
+                  "id": "c",
+                  "texto": "false"
+               },
+               {
+                  "id": "d",
+                  "texto": "undefined"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "prog-021",
+            "enunciado": "¿Cuál de estas es una estructura de control de flujo?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "function"
+               },
+               {
+                  "id": "b",
+                  "texto": "array"
+               },
+               {
+                  "id": "c",
+                  "texto": "if"
+               },
+               {
+                  "id": "d",
+                  "texto": "object"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-022",
+            "enunciado": "¿Qué operador se usa para comparar valor y tipo en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "=="
+               },
+               {
+                  "id": "b",
+                  "texto": "!="
+               },
+               {
+                  "id": "c",
+                  "texto": "==="
+               },
+               {
+                  "id": "d",
+                  "texto": "="
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-023",
+            "enunciado": "¿Qué extensión de archivo es común para archivos de TypeScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": ".js"
+               },
+               {
+                  "id": "b",
+                  "texto": ".jsx"
+               },
+               {
+                  "id": "c",
+                  "texto": ".ts"
+               },
+               {
+                  "id": "d",
+                  "texto": ".tsx"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-024",
+            "enunciado": "¿Cuál es el resultado de 2 + '2' en JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "4"
+               },
+               {
+                  "id": "b",
+                  "texto": "22"
+               },
+               {
+                  "id": "c",
+                  "texto": "NaN"
+               },
+               {
+                  "id": "d",
+                  "texto": "Error"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-025",
+            "enunciado": "¿Qué librería de JavaScript se enfoca en la manipulación del DOM?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "jQuery"
+               },
+               {
+                  "id": "b",
+                  "texto": "Express"
+               },
+               {
+                  "id": "c",
+                  "texto": "React"
+               },
+               {
+                  "id": "d",
+                  "texto": "Next.js"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prog-026",
+            "enunciado": "¿Qué motor de JavaScript utiliza Google Chrome?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Rhino"
+               },
+               {
+                  "id": "b",
+                  "texto": "SpiderMonkey"
+               },
+               {
+                  "id": "c",
+                  "texto": "V8"
+               },
+               {
+                  "id": "d",
+                  "texto": "Java VM"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prog-027",
+            "enunciado": "¿Qué herramienta se usa para empaquetar módulos JavaScript?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Docker"
+               },
+               {
+                  "id": "b",
+                  "texto": "Webpack"
+               },
+               {
+                  "id": "c",
+                  "texto": "MySQL"
+               },
+               {
+                  "id": "d",
+                  "texto": "GitHub"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prog-028",
+            "enunciado": "¿Qué es JSX?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Una extensión de JavaScript para trabajar con XML"
+               },
+               {
+                  "id": "b",
+                  "texto": "Un lenguaje nuevo de JavaScript"
+               },
+               {
+                  "id": "c",
+                  "texto": "Un preprocesador de CSS"
+               },
+               {
+                  "id": "d",
+                  "texto": "Un formato de datos como JSON"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prog-029",
+            "enunciado": "¿Qué función de array reduce todos los elementos a un único valor?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "map()"
+               },
+               {
+                  "id": "b",
+                  "texto": "filter()"
+               },
+               {
+                  "id": "c",
+                  "texto": "forEach()"
+               },
+               {
+                  "id": "d",
+                  "texto": "reduce()"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "prog-030",
+            "enunciado": "¿Cuál es el propósito de `useState` en React?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Establecer rutas en una aplicación"
+               },
+               {
+                  "id": "b",
+                  "texto": "Manejar efectos secundarios"
+               },
+               {
+                  "id": "c",
+                  "texto": "Manejar el estado de un componente"
+               },
+               {
+                  "id": "d",
+                  "texto": "Renderizar listas"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prg-101",
+            "enunciado": "JavaScript fue creado en 10 días.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prg-102",
+            "enunciado": "Python es un lenguaje tipado estáticamente.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prg-103",
+            "enunciado": "HTML es un lenguaje de programación.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prg-104",
+            "enunciado": "La palabra clave 'let' en JavaScript permite definir variables de alcance ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "global"
+               },
+               {
+                  "id": "b",
+                  "texto": "de bloque"
+               },
+               {
+                  "id": "c",
+                  "texto": "estático"
+               },
+               {
+                  "id": "d",
+                  "texto": "clásico"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prg-105",
+            "enunciado": "React es una biblioteca de ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "manejo de bases de datos"
+               },
+               {
+                  "id": "b",
+                  "texto": "interfaces de usuario"
+               },
+               {
+                  "id": "c",
+                  "texto": "automatización de tareas"
+               },
+               {
+                  "id": "d",
+                  "texto": "scripting backend"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prg-106",
+            "enunciado": "En programación, el acrónimo 'API' significa ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Automatic Process Integration"
+               },
+               {
+                  "id": "b",
+                  "texto": "Application Programming Interface"
+               },
+               {
+                  "id": "c",
+                  "texto": "Advanced Program Index"
+               },
+               {
+                  "id": "d",
+                  "texto": "Array Processing Input"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "prg-107",
+            "enunciado": "Un 'bug' en programación se refiere a un error en el código.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prg-108",
+            "enunciado": "TypeScript es un superconjunto de JavaScript.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "prg-109",
+            "enunciado": "En SQL, la instrucción para obtener todos los registros de una tabla es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "FIND * FROM tabla"
+               },
+               {
+                  "id": "b",
+                  "texto": "SELECT ALL FROM tabla"
+               },
+               {
+                  "id": "c",
+                  "texto": "SELECT * FROM tabla"
+               },
+               {
+                  "id": "d",
+                  "texto": "SHOW ALL FROM tabla"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "prg-110",
+            "enunciado": "En Git, el comando para clonar un repositorio es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "git pull"
+               },
+               {
+                  "id": "b",
+                  "texto": "git copy"
+               },
+               {
+                  "id": "c",
+                  "texto": "git clone"
+               },
+               {
+                  "id": "d",
+                  "texto": "git fork"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "pro-111",
+            "enunciado": "JavaScript fue creado en solo 10 días.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-112",
+            "enunciado": "Python usa la palabra clave ________ para definir funciones.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "function"
+               },
+               {
+                  "id": "b",
+                  "texto": "def"
+               },
+               {
+                  "id": "c",
+                  "texto": "fun"
+               },
+               {
+                  "id": "d",
+                  "texto": "lambda"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "pro-113",
+            "enunciado": "El lenguaje C fue desarrollado antes que Java.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-114",
+            "enunciado": "La estructura de control en Java que se usa para múltiples condiciones es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "if-else"
+               },
+               {
+                  "id": "b",
+                  "texto": "switch"
+               },
+               {
+                  "id": "c",
+                  "texto": "while"
+               },
+               {
+                  "id": "d",
+                  "texto": "do-while"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "pro-115",
+            "enunciado": "CSS es un lenguaje de programación.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "pro-116",
+            "enunciado": "El operador lógico AND en JavaScript es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "&&"
+               },
+               {
+                  "id": "b",
+                  "texto": "||"
+               },
+               {
+                  "id": "c",
+                  "texto": "&"
+               },
+               {
+                  "id": "d",
+                  "texto": "and"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-117",
+            "enunciado": "Git es una herramienta de control de versiones.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-118",
+            "enunciado": "HTML significa ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "HyperText Markup Language"
+               },
+               {
+                  "id": "b",
+                  "texto": "HighText Machine Language"
+               },
+               {
+                  "id": "c",
+                  "texto": "HyperTransfer Main Language"
+               },
+               {
+                  "id": "d",
+                  "texto": "None of the above"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-119",
+            "enunciado": "La extensión de archivo para un script en Python es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": ".py"
+               },
+               {
+                  "id": "b",
+                  "texto": ".js"
+               },
+               {
+                  "id": "c",
+                  "texto": ".html"
+               },
+               {
+                  "id": "d",
+                  "texto": ".java"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "pro-120",
+            "enunciado": "Una función que se llama a sí misma se denomina recursiva.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         }
+      ],
+      "astronomia": [
+         {
+            "id": "esp-001",
+            "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "b",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "c",
+                  "texto": "Urano"
+               },
+               {
+                  "id": "d",
+                  "texto": "Neptuno"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-002",
+            "enunciado": "¿Qué nombre recibe el primer satélite artificial lanzado al espacio?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Apollo 11"
+               },
+               {
+                  "id": "b",
+                  "texto": "Sputnik 1"
+               },
+               {
+                  "id": "c",
+                  "texto": "Voyager 1"
+               },
+               {
+                  "id": "d",
+                  "texto": "Luna 2"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-003",
+            "enunciado": "¿Cuál es el nombre del rover que la NASA envió a Marte en 2021?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Spirit"
+               },
+               {
+                  "id": "b",
+                  "texto": "Curiosity"
+               },
+               {
+                  "id": "c",
+                  "texto": "Opportunity"
+               },
+               {
+                  "id": "d",
+                  "texto": "Perseverance"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "esp-004",
+            "enunciado": "¿Cuál es la estrella más cercana a la Tierra después del Sol?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Alpha Centauri A"
+               },
+               {
+                  "id": "b",
+                  "texto": "Proxima Centauri"
+               },
+               {
+                  "id": "c",
+                  "texto": "Sirius"
+               },
+               {
+                  "id": "d",
+                  "texto": "Betelgeuse"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-005",
+            "enunciado": "¿Qué planeta tiene un sistema de anillos prominente y visible desde la Tierra?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "b",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "c",
+                  "texto": "Neptuno"
+               },
+               {
+                  "id": "d",
+                  "texto": "Urano"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-006",
+            "enunciado": "¿Qué cuerpo celeste fue reclasificado como planeta enano en 2006?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Plutón"
+               },
+               {
+                  "id": "b",
+                  "texto": "Ceres"
+               },
+               {
+                  "id": "c",
+                  "texto": "Eris"
+               },
+               {
+                  "id": "d",
+                  "texto": "Haumea"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-007",
+            "enunciado": "¿Qué misión llevó al primer ser humano a la Luna?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Apollo 11"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gemini 4"
+               },
+               {
+                  "id": "c",
+                  "texto": "Mercury 6"
+               },
+               {
+                  "id": "d",
+                  "texto": "Apollo 13"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-008",
+            "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Mercurio"
+               },
+               {
+                  "id": "b",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "c",
+                  "texto": "Marte"
+               },
+               {
+                  "id": "d",
+                  "texto": "Júpiter"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "esp-009",
+            "enunciado": "¿Cuál es el nombre del telescopio espacial lanzado en 1990?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Hubble"
+               },
+               {
+                  "id": "b",
+                  "texto": "Kepler"
+               },
+               {
+                  "id": "c",
+                  "texto": "James Webb"
+               },
+               {
+                  "id": "d",
+                  "texto": "Chandra"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-010",
+            "enunciado": "¿Qué planeta tiene la rotación más rápida del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "b",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "c",
+                  "texto": "Neptuno"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tierra"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-011",
+            "enunciado": "¿Cuál es el único satélite natural de la Tierra?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Europa"
+               },
+               {
+                  "id": "b",
+                  "texto": "Luna"
+               },
+               {
+                  "id": "c",
+                  "texto": "Fobos"
+               },
+               {
+                  "id": "d",
+                  "texto": "Titán"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-012",
+            "enunciado": "¿Cuál es el planeta más cercano al Sol?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "b",
+                  "texto": "Tierra"
+               },
+               {
+                  "id": "c",
+                  "texto": "Mercurio"
+               },
+               {
+                  "id": "d",
+                  "texto": "Marte"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "esp-013",
+            "enunciado": "¿Cómo se llama el sistema de clasificación estelar basado en la temperatura?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Escala de Kelvin"
+               },
+               {
+                  "id": "b",
+                  "texto": "Clasificación OBAFGKM"
+               },
+               {
+                  "id": "c",
+                  "texto": "Magnitud aparente"
+               },
+               {
+                  "id": "d",
+                  "texto": "Escala Hertzsprung-Russell"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-014",
+            "enunciado": "¿Qué planeta tiene el día más largo (rotación más lenta) del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "b",
+                  "texto": "Mercurio"
+               },
+               {
+                  "id": "c",
+                  "texto": "Urano"
+               },
+               {
+                  "id": "d",
+                  "texto": "Saturno"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-015",
+            "enunciado": "¿Qué galaxia es vecina de la Vía Láctea y visible a simple vista desde el hemisferio sur?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Galaxia de Andrómeda"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gran Nube de Magallanes"
+               },
+               {
+                  "id": "c",
+                  "texto": "Pequeña Nube de Magallanes"
+               },
+               {
+                  "id": "d",
+                  "texto": "Galaxia del Triángulo"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-016",
+            "enunciado": "¿Qué astrónomo propuso por primera vez que la Tierra gira alrededor del Sol?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Galileo Galilei"
+               },
+               {
+                  "id": "b",
+                  "texto": "Isaac Newton"
+               },
+               {
+                  "id": "c",
+                  "texto": "Johannes Kepler"
+               },
+               {
+                  "id": "d",
+                  "texto": "Nicolás Copérnico"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "esp-017",
+            "enunciado": "¿Qué planeta tiene los vientos más rápidos del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "b",
+                  "texto": "Neptuno"
+               },
+               {
+                  "id": "c",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "d",
+                  "texto": "Urano"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-018",
+            "enunciado": "¿Qué planeta rota sobre su costado con un eje inclinado casi 98 grados?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Neptuno"
+               },
+               {
+                  "id": "b",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "c",
+                  "texto": "Urano"
+               },
+               {
+                  "id": "d",
+                  "texto": "Júpiter"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "esp-019",
+            "enunciado": "¿Qué tipo de objeto astronómico es el Sol?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Gigante roja"
+               },
+               {
+                  "id": "b",
+                  "texto": "Enana blanca"
+               },
+               {
+                  "id": "c",
+                  "texto": "Estrella de neutrones"
+               },
+               {
+                  "id": "d",
+                  "texto": "Enana amarilla"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "esp-020",
+            "enunciado": "¿Qué misión espacial fue la primera en salir del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Pioneer 10"
+               },
+               {
+                  "id": "b",
+                  "texto": "Voyager 1"
+               },
+               {
+                  "id": "c",
+                  "texto": "Voyager 2"
+               },
+               {
+                  "id": "d",
+                  "texto": "New Horizons"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-021",
+            "enunciado": "¿Qué planeta tiene una atmósfera compuesta principalmente de dióxido de carbono y una temperatura superficial extremadamente alta?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "b",
+                  "texto": "Mercurio"
+               },
+               {
+                  "id": "c",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tierra"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-022",
+            "enunciado": "¿Qué fenómeno ocurre cuando la Luna se interpone entre el Sol y la Tierra?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Eclipse lunar"
+               },
+               {
+                  "id": "b",
+                  "texto": "Eclipse solar"
+               },
+               {
+                  "id": "c",
+                  "texto": "Marea alta"
+               },
+               {
+                  "id": "d",
+                  "texto": "Albedo"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-023",
+            "enunciado": "¿Cómo se llama el punto en el cielo directamente sobre la cabeza de un observador?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Nadir"
+               },
+               {
+                  "id": "b",
+                  "texto": "Horizonte"
+               },
+               {
+                  "id": "c",
+                  "texto": "Zenit"
+               },
+               {
+                  "id": "d",
+                  "texto": "Meridiano"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "esp-024",
+            "enunciado": "¿Qué instrumento se utiliza para observar objetos celestes desde la Tierra?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Espectroscopio"
+               },
+               {
+                  "id": "b",
+                  "texto": "Telescopio"
+               },
+               {
+                  "id": "c",
+                  "texto": "Microscopio"
+               },
+               {
+                  "id": "d",
+                  "texto": "Radar"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-025",
+            "enunciado": "¿Qué planeta tiene la mayor cantidad de lunas conocidas?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "b",
+                  "texto": "Saturno"
+               },
+               {
+                  "id": "c",
+                  "texto": "Urano"
+               },
+               {
+                  "id": "d",
+                  "texto": "Neptuno"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-026",
+            "enunciado": "¿Qué tipo de objeto es un cometa?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Una estrella"
+               },
+               {
+                  "id": "b",
+                  "texto": "Un planeta menor con núcleo de hielo y polvo"
+               },
+               {
+                  "id": "c",
+                  "texto": "Una luna"
+               },
+               {
+                  "id": "d",
+                  "texto": "Un agujero negro"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "esp-027",
+            "enunciado": "¿Qué planeta gira en dirección opuesta a la mayoría de los otros planetas del sistema solar?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "b",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "c",
+                  "texto": "Tierra"
+               },
+               {
+                  "id": "d",
+                  "texto": "Neptuno"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "esp-028",
+            "enunciado": "¿Cómo se llama la zona habitable alrededor de una estrella donde puede existir agua líquida?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Zona crítica"
+               },
+               {
+                  "id": "b",
+                  "texto": "Zona dorada"
+               },
+               {
+                  "id": "c",
+                  "texto": "Zona de vida"
+               },
+               {
+                  "id": "d",
+                  "texto": "Zona habitable"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "esp-029",
+            "enunciado": "¿Qué nombre recibe una estrella al final de su vida cuando colapsa y su gravedad impide que incluso la luz escape?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Enana blanca"
+               },
+               {
+                  "id": "b",
+                  "texto": "Estrella de neutrones"
+               },
+               {
+                  "id": "c",
+                  "texto": "Agujero negro"
+               },
+               {
+                  "id": "d",
+                  "texto": "Nova"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "esp-030",
+            "enunciado": "¿Qué satélite natural de Júpiter es famoso por su actividad volcánica extrema?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Europa"
+               },
+               {
+                  "id": "b",
+                  "texto": "Ganímedes"
+               },
+               {
+                  "id": "c",
+                  "texto": "Ío"
+               },
+               {
+                  "id": "d",
+                  "texto": "Calisto"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "ast-101",
+            "enunciado": "La Vía Láctea es una galaxia espiral.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-102",
+            "enunciado": "Plutón es considerado actualmente un planeta en el sistema solar.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-103",
+            "enunciado": "La NASA fue fundada en el año ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "1958"
+               },
+               {
+                  "id": "b",
+                  "texto": "1969"
+               },
+               {
+                  "id": "c",
+                  "texto": "1945"
+               },
+               {
+                  "id": "d",
+                  "texto": "1971"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-104",
+            "enunciado": "La atmósfera de Marte contiene principalmente dióxido de carbono.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-105",
+            "enunciado": "La Tierra gira alrededor del Sol en aproximadamente ________ días.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "360"
+               },
+               {
+                  "id": "b",
+                  "texto": "365"
+               },
+               {
+                  "id": "c",
+                  "texto": "366"
+               },
+               {
+                  "id": "d",
+                  "texto": "370"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-106",
+            "enunciado": "Júpiter es el planeta más grande del sistema solar.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-107",
+            "enunciado": "La primera misión tripulada que llegó a la Luna fue ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Apollo 9"
+               },
+               {
+                  "id": "b",
+                  "texto": "Apollo 11"
+               },
+               {
+                  "id": "c",
+                  "texto": "Apollo 13"
+               },
+               {
+                  "id": "d",
+                  "texto": "Gemini 7"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-108",
+            "enunciado": "El telescopio espacial Hubble fue lanzado al espacio en 1990.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-109",
+            "enunciado": "Neptuno es conocido por su color ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "rojo"
+               },
+               {
+                  "id": "b",
+                  "texto": "azul"
+               },
+               {
+                  "id": "c",
+                  "texto": "amarillo"
+               },
+               {
+                  "id": "d",
+                  "texto": "verde"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-110",
+            "enunciado": "Un año luz es una medida de tiempo.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-111",
+            "enunciado": "El Sol es una estrella de tipo espectral G.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-112",
+            "enunciado": "La sonda Voyager 1 fue lanzada en el año ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "1977"
+               },
+               {
+                  "id": "b",
+                  "texto": "1983"
+               },
+               {
+                  "id": "c",
+                  "texto": "1969"
+               },
+               {
+                  "id": "d",
+                  "texto": "1991"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-113",
+            "enunciado": "El cinturón de asteroides se encuentra entre Marte y Júpiter.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-114",
+            "enunciado": "El planeta más cercano al Sol es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "b",
+                  "texto": "Marte"
+               },
+               {
+                  "id": "c",
+                  "texto": "Mercurio"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tierra"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "ast-115",
+            "enunciado": "Saturno tiene más de 80 lunas.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-116",
+            "enunciado": "El universo se encuentra en constante expansión.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-117",
+            "enunciado": "El planeta rojo es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Marte"
+               },
+               {
+                  "id": "b",
+                  "texto": "Venus"
+               },
+               {
+                  "id": "c",
+                  "texto": "Júpiter"
+               },
+               {
+                  "id": "d",
+                  "texto": "Saturno"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-118",
+            "enunciado": "La Estación Espacial Internacional (EEI) orbita la Tierra aproximadamente cada 90 minutos.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "ast-119",
+            "enunciado": "La estrella más cercana al sistema solar, después del Sol, es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Sirius"
+               },
+               {
+                  "id": "b",
+                  "texto": "Proxima Centauri"
+               },
+               {
+                  "id": "c",
+                  "texto": "Vega"
+               },
+               {
+                  "id": "d",
+                  "texto": "Betelgeuse"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "ast-120",
+            "enunciado": "Una supernova es una fase final en la vida de algunas estrellas.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         }
+      ],
+      "videojuegos": [
+         {
+            "id": "vg-001",
+            "enunciado": "¿Qué empresa desarrolló la consola PlayStation?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Microsoft"
+               },
+               {
+                  "id": "b",
+                  "texto": "Nintendo"
+               },
+               {
+                  "id": "c",
+                  "texto": "Sony"
+               },
+               {
+                  "id": "d",
+                  "texto": "Sega"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-002",
+            "enunciado": "¿Cuál es el nombre del protagonista de la saga The Legend of Zelda?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Zelda"
+               },
+               {
+                  "id": "b",
+                  "texto": "Link"
+               },
+               {
+                  "id": "c",
+                  "texto": "Ganondorf"
+               },
+               {
+                  "id": "d",
+                  "texto": "Sheik"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-003",
+            "enunciado": "¿Qué famoso videojuego tiene como personaje principal a un fontanero italiano?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Sonic the Hedgehog"
+               },
+               {
+                  "id": "b",
+                  "texto": "Donkey Kong"
+               },
+               {
+                  "id": "c",
+                  "texto": "Super Mario Bros"
+               },
+               {
+                  "id": "d",
+                  "texto": "Rayman"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-004",
+            "enunciado": "¿Cuál es el videojuego más vendido de todos los tiempos?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Minecraft"
+               },
+               {
+                  "id": "b",
+                  "texto": "GTA V"
+               },
+               {
+                  "id": "c",
+                  "texto": "Tetris"
+               },
+               {
+                  "id": "d",
+                  "texto": "Wii Sports"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-005",
+            "enunciado": "¿Qué empresa desarrolló el juego Fortnite?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Activision"
+               },
+               {
+                  "id": "b",
+                  "texto": "Epic Games"
+               },
+               {
+                  "id": "c",
+                  "texto": "Ubisoft"
+               },
+               {
+                  "id": "d",
+                  "texto": "EA"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-006",
+            "enunciado": "¿En qué videojuego aparece el personaje Master Chief?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Call of Duty"
+               },
+               {
+                  "id": "b",
+                  "texto": "Halo"
+               },
+               {
+                  "id": "c",
+                  "texto": "Destiny"
+               },
+               {
+                  "id": "d",
+                  "texto": "Mass Effect"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-007",
+            "enunciado": "¿Cuál de estos videojuegos es un battle royale?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Fortnite"
+               },
+               {
+                  "id": "b",
+                  "texto": "Overwatch"
+               },
+               {
+                  "id": "c",
+                  "texto": "League of Legends"
+               },
+               {
+                  "id": "d",
+                  "texto": "The Witcher 3"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-008",
+            "enunciado": "¿En qué consola debutó el personaje de Sonic?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "PlayStation"
+               },
+               {
+                  "id": "b",
+                  "texto": "NES"
+               },
+               {
+                  "id": "c",
+                  "texto": "Sega Genesis"
+               },
+               {
+                  "id": "d",
+                  "texto": "Nintendo 64"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-009",
+            "enunciado": "¿Cuál es el objetivo principal en el juego Pac-Man?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Comer frutas"
+               },
+               {
+                  "id": "b",
+                  "texto": "Evitar fantasmas y comer puntos"
+               },
+               {
+                  "id": "c",
+                  "texto": "Recolectar monedas"
+               },
+               {
+                  "id": "d",
+                  "texto": "Capturar fantasmas"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-010",
+            "enunciado": "¿Qué tipo de juego es League of Legends?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "MMORPG"
+               },
+               {
+                  "id": "b",
+                  "texto": "FPS"
+               },
+               {
+                  "id": "c",
+                  "texto": "MOBA"
+               },
+               {
+                  "id": "d",
+                  "texto": "Survival Horror"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-011",
+            "enunciado": "¿En qué saga de videojuegos aparece el personaje Kratos?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "God of War"
+               },
+               {
+                  "id": "b",
+                  "texto": "Assassin's Creed"
+               },
+               {
+                  "id": "c",
+                  "texto": "Dark Souls"
+               },
+               {
+                  "id": "d",
+                  "texto": "Gears of War"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-012",
+            "enunciado": "¿Cómo se llama el protagonista de la serie de videojuegos Metal Gear?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Solid Snake"
+               },
+               {
+                  "id": "b",
+                  "texto": "Sam Fisher"
+               },
+               {
+                  "id": "c",
+                  "texto": "Big Boss"
+               },
+               {
+                  "id": "d",
+                  "texto": "Marcus Fenix"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-013",
+            "enunciado": "¿Qué famoso simulador de vida fue creado por Will Wright?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "SimCity"
+               },
+               {
+                  "id": "b",
+                  "texto": "RollerCoaster Tycoon"
+               },
+               {
+                  "id": "c",
+                  "texto": "The Sims"
+               },
+               {
+                  "id": "d",
+                  "texto": "Zoo Tycoon"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-014",
+            "enunciado": "¿Qué juego popular está ambientado en el mundo de Hyrule?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Final Fantasy"
+               },
+               {
+                  "id": "b",
+                  "texto": "The Elder Scrolls"
+               },
+               {
+                  "id": "c",
+                  "texto": "The Legend of Zelda"
+               },
+               {
+                  "id": "d",
+                  "texto": "Monster Hunter"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-015",
+            "enunciado": "¿Cuál de estos juegos pertenece al género survival horror?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Resident Evil"
+               },
+               {
+                  "id": "b",
+                  "texto": "Overcooked"
+               },
+               {
+                  "id": "c",
+                  "texto": "Rocket League"
+               },
+               {
+                  "id": "d",
+                  "texto": "Stardew Valley"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-016",
+            "enunciado": "¿Cuál de estos juegos fue lanzado originalmente para la consola Nintendo 64?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Super Mario 64"
+               },
+               {
+                  "id": "b",
+                  "texto": "Mario Galaxy"
+               },
+               {
+                  "id": "c",
+                  "texto": "Mario Odyssey"
+               },
+               {
+                  "id": "d",
+                  "texto": "Mario Kart Wii"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-017",
+            "enunciado": "¿Qué compañía desarrolla la franquicia de videojuegos Assassin's Creed?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Ubisoft"
+               },
+               {
+                  "id": "b",
+                  "texto": "Square Enix"
+               },
+               {
+                  "id": "c",
+                  "texto": "Electronic Arts"
+               },
+               {
+                  "id": "d",
+                  "texto": "Activision"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-018",
+            "enunciado": "¿En qué juego puedes atrapar criaturas llamadas Pokémon?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Digimon"
+               },
+               {
+                  "id": "b",
+                  "texto": "Pokémon"
+               },
+               {
+                  "id": "c",
+                  "texto": "Yo-Kai Watch"
+               },
+               {
+                  "id": "d",
+                  "texto": "Monster Rancher"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-019",
+            "enunciado": "¿Qué videojuego fue pionero en el género sandbox moderno?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Minecraft"
+               },
+               {
+                  "id": "b",
+                  "texto": "GTA III"
+               },
+               {
+                  "id": "c",
+                  "texto": "Roblox"
+               },
+               {
+                  "id": "d",
+                  "texto": "The Sims"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-020",
+            "enunciado": "¿Cuál de estos personajes no pertenece a la franquicia de Nintendo?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Kirby"
+               },
+               {
+                  "id": "b",
+                  "texto": "Samus"
+               },
+               {
+                  "id": "c",
+                  "texto": "Crash Bandicoot"
+               },
+               {
+                  "id": "d",
+                  "texto": "Fox McCloud"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-021",
+            "enunciado": "¿Cuál es el nombre de la princesa que suele ser rescatada por Mario?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Daisy"
+               },
+               {
+                  "id": "b",
+                  "texto": "Peach"
+               },
+               {
+                  "id": "c",
+                  "texto": "Rosalina"
+               },
+               {
+                  "id": "d",
+                  "texto": "Zelda"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-022",
+            "enunciado": "¿En qué videojuego se utiliza un pico para recolectar materiales y construir?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Terraria"
+               },
+               {
+                  "id": "b",
+                  "texto": "Rust"
+               },
+               {
+                  "id": "c",
+                  "texto": "Minecraft"
+               },
+               {
+                  "id": "d",
+                  "texto": "Valheim"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-023",
+            "enunciado": "¿Cuál es el nombre del villano principal en la serie de videojuegos Sonic?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Dr. Cortex"
+               },
+               {
+                  "id": "b",
+                  "texto": "Dr. Eggman"
+               },
+               {
+                  "id": "c",
+                  "texto": "Bowser"
+               },
+               {
+                  "id": "d",
+                  "texto": "Ganondorf"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-024",
+            "enunciado": "¿Qué personaje usa una espada maestra en una conocida saga de videojuegos?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Cloud"
+               },
+               {
+                  "id": "b",
+                  "texto": "Zelda"
+               },
+               {
+                  "id": "c",
+                  "texto": "Link"
+               },
+               {
+                  "id": "d",
+                  "texto": "Sephiroth"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-025",
+            "enunciado": "¿Cuál de estos juegos fue desarrollado por Hideo Kojima?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Death Stranding"
+               },
+               {
+                  "id": "b",
+                  "texto": "Resident Evil"
+               },
+               {
+                  "id": "c",
+                  "texto": "Devil May Cry"
+               },
+               {
+                  "id": "d",
+                  "texto": "Silent Hill"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-026",
+            "enunciado": "¿Cuál es el nombre del mundo ficticio en el que se desarrolla la saga Elder Scrolls?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Tamriel"
+               },
+               {
+                  "id": "b",
+                  "texto": "Westeros"
+               },
+               {
+                  "id": "c",
+                  "texto": "Nirn"
+               },
+               {
+                  "id": "d",
+                  "texto": "Azeroth"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-027",
+            "enunciado": "¿Qué videojuego popular consiste en colocar palabras en un tablero para obtener puntos?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Tetris"
+               },
+               {
+                  "id": "b",
+                  "texto": "Scrabble"
+               },
+               {
+                  "id": "c",
+                  "texto": "Words with Friends"
+               },
+               {
+                  "id": "d",
+                  "texto": "Boggle"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-028",
+            "enunciado": "¿Cuál de estos juegos fue lanzado primero?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "The Legend of Zelda: Ocarina of Time"
+               },
+               {
+                  "id": "b",
+                  "texto": "Final Fantasy VII"
+               },
+               {
+                  "id": "c",
+                  "texto": "Super Mario 64"
+               },
+               {
+                  "id": "d",
+                  "texto": "Metal Gear Solid"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-029",
+            "enunciado": "¿Cuál de estos juegos está centrado en construir y gestionar un parque de atracciones?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Zoo Tycoon"
+               },
+               {
+                  "id": "b",
+                  "texto": "RollerCoaster Tycoon"
+               },
+               {
+                  "id": "c",
+                  "texto": "Planet Zoo"
+               },
+               {
+                  "id": "d",
+                  "texto": "Theme Hospital"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-030",
+            "enunciado": "¿Cuál de estos juegos pertenece al género de estrategia en tiempo real?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Age of Empires"
+               },
+               {
+                  "id": "b",
+                  "texto": "Dark Souls"
+               },
+               {
+                  "id": "c",
+                  "texto": "FIFA"
+               },
+               {
+                  "id": "d",
+                  "texto": "Crash Bandicoot"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-101",
+            "enunciado": "El videojuego 'Pac-Man' fue lanzado en los años 80.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-102",
+            "enunciado": "El juego 'Minecraft' fue creado por Markus Persson.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-103",
+            "enunciado": "El protagonista de la saga 'The Legend of Zelda' se llama Zelda.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-104",
+            "enunciado": "Sony creó la consola Xbox.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vg-105",
+            "enunciado": "La saga de videojuegos 'Assassin’s Creed' está basada en ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Asesinos históricos"
+               },
+               {
+                  "id": "b",
+                  "texto": "Vikingos"
+               },
+               {
+                  "id": "c",
+                  "texto": "Naves espaciales"
+               },
+               {
+                  "id": "d",
+                  "texto": "Animales parlantes"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-106",
+            "enunciado": "El personaje 'Sonic' es una ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Liebre"
+               },
+               {
+                  "id": "b",
+                  "texto": "Zorro"
+               },
+               {
+                  "id": "c",
+                  "texto": "Erizo"
+               },
+               {
+                  "id": "d",
+                  "texto": "Perro"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-107",
+            "enunciado": "La empresa creadora de 'League of Legends' se llama ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Riot Games"
+               },
+               {
+                  "id": "b",
+                  "texto": "Epic Games"
+               },
+               {
+                  "id": "c",
+                  "texto": "Valve"
+               },
+               {
+                  "id": "d",
+                  "texto": "Ubisoft"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-108",
+            "enunciado": "La princesa Peach es un personaje de la saga de ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Zelda"
+               },
+               {
+                  "id": "b",
+                  "texto": "Metroid"
+               },
+               {
+                  "id": "c",
+                  "texto": "Mario"
+               },
+               {
+                  "id": "d",
+                  "texto": "Final Fantasy"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vg-109",
+            "enunciado": "En el videojuego 'Among Us', el impostor debe evitar ser descubierto.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vg-110",
+            "enunciado": "El videojuego 'Overwatch' fue desarrollado por Blizzard.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-111",
+            "enunciado": "La empresa que desarrolló *Minecraft* es Mojang.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-112",
+            "enunciado": "El videojuego *The Legend of Zelda: Breath of the Wild* se lanzó en el año ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "2015"
+               },
+               {
+                  "id": "b",
+                  "texto": "2016"
+               },
+               {
+                  "id": "c",
+                  "texto": "2017"
+               },
+               {
+                  "id": "d",
+                  "texto": "2018"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vid-113",
+            "enunciado": "El juego *Among Us* fue lanzado antes del 2020.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-114",
+            "enunciado": "El personaje principal de la serie *Halo* se llama ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Master Soldier"
+               },
+               {
+                  "id": "b",
+                  "texto": "Captain Falcon"
+               },
+               {
+                  "id": "c",
+                  "texto": "Master Chief"
+               },
+               {
+                  "id": "d",
+                  "texto": "John Spartan"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vid-115",
+            "enunciado": "La franquicia *Call of Duty* comenzó con un enfoque en la Segunda Guerra Mundial.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-116",
+            "enunciado": "En *Pokémon*, Pikachu es un Pokémon de tipo ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Fuego"
+               },
+               {
+                  "id": "b",
+                  "texto": "Agua"
+               },
+               {
+                  "id": "c",
+                  "texto": "Eléctrico"
+               },
+               {
+                  "id": "d",
+                  "texto": "Planta"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "vid-117",
+            "enunciado": "La saga *Dark Souls* es conocida por su baja dificultad.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "vid-118",
+            "enunciado": "*Tetris* fue creado en ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Rusia"
+               },
+               {
+                  "id": "b",
+                  "texto": "Japón"
+               },
+               {
+                  "id": "c",
+                  "texto": "Estados Unidos"
+               },
+               {
+                  "id": "d",
+                  "texto": "Alemania"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-119",
+            "enunciado": "En *Super Mario Bros*, el hermano de Mario se llama Luigi.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "vid-120",
+            "enunciado": "El nombre del mundo principal en *The Elder Scrolls V: Skyrim* es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Tamriel"
+               },
+               {
+                  "id": "b",
+                  "texto": "Hyrule"
+               },
+               {
+                  "id": "c",
+                  "texto": "Skyrim"
+               },
+               {
+                  "id": "d",
+                  "texto": "Midgard"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         }
+      ],
+      "entretenimiento": [
+         {
+            "id": "entretenimiento-01",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre del villano principal en la saga original de Star Wars?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Darth Maul"
+               },
+               {
+                  "id": "b",
+                  "texto": "Darth Vader"
+               },
+               {
+                  "id": "c",
+                  "texto": "Kylo Ren"
+               },
+               {
+                  "id": "d",
+                  "texto": "Palpatine"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-02",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Breaking Bad' sigue la historia de un profesor de química convertido en narcotraficante.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-03",
+            "tema": "entretenimiento",
+            "enunciado": "El anime 'One Piece' gira en torno a un grupo de ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "samuráis"
+               },
+               {
+                  "id": "b",
+                  "texto": "piratas"
+               },
+               {
+                  "id": "c",
+                  "texto": "ninjas"
+               },
+               {
+                  "id": "d",
+                  "texto": "robots"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-04",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre del actor que interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Chris Evans"
+               },
+               {
+                  "id": "b",
+                  "texto": "Chris Hemsworth"
+               },
+               {
+                  "id": "c",
+                  "texto": "Robert Downey Jr."
+               },
+               {
+                  "id": "d",
+                  "texto": "Mark Ruffalo"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-05",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'Titanic' fue dirigida por James Cameron.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-06",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué personaje muere en la primera temporada de 'Game of Thrones'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Robb Stark"
+               },
+               {
+                  "id": "b",
+                  "texto": "Ned Stark"
+               },
+               {
+                  "id": "c",
+                  "texto": "Joffrey Baratheon"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tyrion Lannister"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-07",
+            "tema": "entretenimiento",
+            "enunciado": "El anime 'Attack on Titan' se desarrolla en un mundo donde los humanos luchan contra ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "dragones"
+               },
+               {
+                  "id": "b",
+                  "texto": "alienígenas"
+               },
+               {
+                  "id": "c",
+                  "texto": "titanes"
+               },
+               {
+                  "id": "d",
+                  "texto": "demonios"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-08",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué actor dio vida al Joker en 'The Dark Knight'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Joaquin Phoenix"
+               },
+               {
+                  "id": "b",
+                  "texto": "Jack Nicholson"
+               },
+               {
+                  "id": "c",
+                  "texto": "Heath Ledger"
+               },
+               {
+                  "id": "d",
+                  "texto": "Jared Leto"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-09",
+            "tema": "entretenimiento",
+            "enunciado": "El anime 'Naruto' trata sobre un joven ninja que quiere convertirse en el ________ de su aldea.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "líder"
+               },
+               {
+                  "id": "b",
+                  "texto": "sensei"
+               },
+               {
+                  "id": "c",
+                  "texto": "Hokage"
+               },
+               {
+                  "id": "d",
+                  "texto": "jōnin"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-10",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Stranger Things' está ambientada en los años 80.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-11",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre del anime en el que los personajes usan una libreta para matar personas escribiendo su nombre?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Death Parade"
+               },
+               {
+                  "id": "b",
+                  "texto": "Tokyo Ghoul"
+               },
+               {
+                  "id": "c",
+                  "texto": "Death Note"
+               },
+               {
+                  "id": "d",
+                  "texto": "Parasyte"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-12",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'Avatar' (2009) fue dirigida por Steven Spielberg.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-13",
+            "tema": "entretenimiento",
+            "enunciado": "En el anime 'Dragon Ball Z', ¿quién fue el primer personaje en convertirse en Super Saiyajin?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Vegeta"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gohan"
+               },
+               {
+                  "id": "c",
+                  "texto": "Goku"
+               },
+               {
+                  "id": "d",
+                  "texto": "Trunks"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-14",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: El nombre completo del personaje de Harry Potter es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Harry Albus Potter"
+               },
+               {
+                  "id": "b",
+                  "texto": "Harry James Potter"
+               },
+               {
+                  "id": "c",
+                  "texto": "Harry Sirius Potter"
+               },
+               {
+                  "id": "d",
+                  "texto": "Harry Severus Potter"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-15",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'The Office' se basa originalmente en una serie del mismo nombre de origen canadiense.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-16",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál de estas películas ganó el Oscar a Mejor Película en 1994?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Forrest Gump"
+               },
+               {
+                  "id": "b",
+                  "texto": "Pulp Fiction"
+               },
+               {
+                  "id": "c",
+                  "texto": "El Rey León"
+               },
+               {
+                  "id": "d",
+                  "texto": "Cadena Perpetua"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-17",
+            "tema": "entretenimiento",
+            "enunciado": "En 'Stranger Things', el personaje 'Eleven' tiene habilidades psíquicas.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-18",
+            "tema": "entretenimiento",
+            "enunciado": "¿En qué año se estrenó la primera película de 'The Matrix'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "1997"
+               },
+               {
+                  "id": "b",
+                  "texto": "1999"
+               },
+               {
+                  "id": "c",
+                  "texto": "2001"
+               },
+               {
+                  "id": "d",
+                  "texto": "2003"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-19",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál de estos NO es un estudio de animación japonés?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Madhouse"
+               },
+               {
+                  "id": "b",
+                  "texto": "Toei Animation"
+               },
+               {
+                  "id": "c",
+                  "texto": "Pixar"
+               },
+               {
+                  "id": "d",
+                  "texto": "Studio Ghibli"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-20",
+            "tema": "entretenimiento",
+            "enunciado": "En 'Los Simpson', el nombre completo de Bart es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Bartholomew JoJo Simpson"
+               },
+               {
+                  "id": "b",
+                  "texto": "Bartolomé Jacob Simpson"
+               },
+               {
+                  "id": "c",
+                  "texto": "Barton James Simpson"
+               },
+               {
+                  "id": "d",
+                  "texto": "Barthélemy John Simpson"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-21",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué actor interpreta a Geralt de Rivia en la serie 'The Witcher' de Netflix?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Henry Cavill"
+               },
+               {
+                  "id": "b",
+                  "texto": "Chris Pratt"
+               },
+               {
+                  "id": "c",
+                  "texto": "Liam Hemsworth"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tom Hiddleston"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-22",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'Inception' fue dirigida por Christopher Nolan.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-23",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: En 'El viaje de Chihiro', la protagonista entra a un mundo ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "de dragones"
+               },
+               {
+                  "id": "b",
+                  "texto": "espiritual"
+               },
+               {
+                  "id": "c",
+                  "texto": "mágico medieval"
+               },
+               {
+                  "id": "d",
+                  "texto": "alienígena"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-24",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Friends' se desarrolla principalmente en la ciudad de Los Ángeles.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-25",
+            "tema": "entretenimiento",
+            "enunciado": "¿En qué serie aparece el personaje Walter White?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Ozark"
+               },
+               {
+                  "id": "b",
+                  "texto": "Breaking Bad"
+               },
+               {
+                  "id": "c",
+                  "texto": "Narcos"
+               },
+               {
+                  "id": "d",
+                  "texto": "Better Call Saul"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-26",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'The Mandalorian' está ambientada en el mismo universo que Star Wars.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-27",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál de estos animes es conocido por sus batallas con 'Stand'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Bleach"
+               },
+               {
+                  "id": "b",
+                  "texto": "One Piece"
+               },
+               {
+                  "id": "c",
+                  "texto": "JoJo's Bizarre Adventure"
+               },
+               {
+                  "id": "d",
+                  "texto": "Fairy Tail"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-28",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'El Padrino' está basada en una novela de Mario Puzo.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-29",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre real del superhéroe Spider-Man?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Peter Jordan"
+               },
+               {
+                  "id": "b",
+                  "texto": "Clark Kent"
+               },
+               {
+                  "id": "c",
+                  "texto": "Peter Parker"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tony Stark"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-30",
+            "tema": "entretenimiento",
+            "enunciado": "En el anime 'Neon Genesis Evangelion', los pilotos usan robots gigantes llamados ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Evas"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gundams"
+               },
+               {
+                  "id": "c",
+                  "texto": "Zords"
+               },
+               {
+                  "id": "d",
+                  "texto": "Titans"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-31",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre del director de cine que dirigió la trilogía de 'El Señor de los Anillos'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Peter Jackson"
+               },
+               {
+                  "id": "b",
+                  "texto": "James Cameron"
+               },
+               {
+                  "id": "c",
+                  "texto": "Ridley Scott"
+               },
+               {
+                  "id": "d",
+                  "texto": "Christopher Nolan"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-32",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: En la serie 'Naruto', el nombre del zorro de nueve colas es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Kurama"
+               },
+               {
+                  "id": "b",
+                  "texto": "Kakashi"
+               },
+               {
+                  "id": "c",
+                  "texto": "Jiraiya"
+               },
+               {
+                  "id": "d",
+                  "texto": "Kyubi"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-33",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'Titanic' se estrenó en 1995.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-34",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué personaje es conocido por decir la frase 'Yo soy tu padre'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Darth Vader"
+               },
+               {
+                  "id": "b",
+                  "texto": "Obi-Wan Kenobi"
+               },
+               {
+                  "id": "c",
+                  "texto": "Yoda"
+               },
+               {
+                  "id": "d",
+                  "texto": "Luke Skywalker"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-35",
+            "tema": "entretenimiento",
+            "enunciado": "La película 'Interestelar' trata sobre viajes en el tiempo.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-36",
+            "tema": "entretenimiento",
+            "enunciado": "¿En qué anime aparece el personaje Light Yagami?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Bleach"
+               },
+               {
+                  "id": "b",
+                  "texto": "Death Note"
+               },
+               {
+                  "id": "c",
+                  "texto": "Code Geass"
+               },
+               {
+                  "id": "d",
+                  "texto": "Psycho-Pass"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-37",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: En 'One Piece', el protagonista sueña con encontrar el ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Blue Stone"
+               },
+               {
+                  "id": "b",
+                  "texto": "Red Line"
+               },
+               {
+                  "id": "c",
+                  "texto": "One Piece"
+               },
+               {
+                  "id": "d",
+                  "texto": "Grand Log"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-38",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Breaking Bad' se desarrolla en el estado de Texas.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-39",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué actriz interpretó a Katniss Everdeen en 'Los Juegos del Hambre'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Emma Watson"
+               },
+               {
+                  "id": "b",
+                  "texto": "Scarlett Johansson"
+               },
+               {
+                  "id": "c",
+                  "texto": "Jennifer Lawrence"
+               },
+               {
+                  "id": "d",
+                  "texto": "Natalie Portman"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-40",
+            "tema": "entretenimiento",
+            "enunciado": "En 'Fullmetal Alchemist', ¿cuál es la ley principal de la alquimia?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "La ley del vacío eterno"
+               },
+               {
+                  "id": "b",
+                  "texto": "La ley de sacrificio divino"
+               },
+               {
+                  "id": "c",
+                  "texto": "La ley de conservación del alma"
+               },
+               {
+                  "id": "d",
+                  "texto": "La ley del intercambio equivalente"
+               }
+            ],
+            "idRespuestaCorrecta": "d"
+         },
+         {
+            "id": "entretenimiento-41",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: El nombre real del personaje conocido como Batman es ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Bruce Wayne"
+               },
+               {
+                  "id": "b",
+                  "texto": "Clark Kent"
+               },
+               {
+                  "id": "c",
+                  "texto": "Tony Stark"
+               },
+               {
+                  "id": "d",
+                  "texto": "Steve Rogers"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-42",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Rick and Morty' se inspira parcialmente en 'Back to the Future'.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-43",
+            "tema": "entretenimiento",
+            "enunciado": "¿Qué director es conocido por películas como 'Pulp Fiction' y 'Kill Bill'?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Guy Ritchie"
+               },
+               {
+                  "id": "b",
+                  "texto": "Quentin Tarantino"
+               },
+               {
+                  "id": "c",
+                  "texto": "Martin Scorsese"
+               },
+               {
+                  "id": "d",
+                  "texto": "Tim Burton"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-44",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: En 'Attack on Titan', los titanes son enemigos de la ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "humanidad"
+               },
+               {
+                  "id": "b",
+                  "texto": "naturaleza"
+               },
+               {
+                  "id": "c",
+                  "texto": "magia"
+               },
+               {
+                  "id": "d",
+                  "texto": "tecnología"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-45",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Dark' es una producción original de HBO.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-46",
+            "tema": "entretenimiento",
+            "enunciado": "¿En qué ciudad ficticia vive Batman?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Central City"
+               },
+               {
+                  "id": "b",
+                  "texto": "Gotham"
+               },
+               {
+                  "id": "c",
+                  "texto": "Metropolis"
+               },
+               {
+                  "id": "d",
+                  "texto": "Star City"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         },
+         {
+            "id": "entretenimiento-47",
+            "tema": "entretenimiento",
+            "enunciado": "Completa: En la película 'Toy Story', el vaquero se llama ________.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Woody"
+               },
+               {
+                  "id": "b",
+                  "texto": "Andy"
+               },
+               {
+                  "id": "c",
+                  "texto": "Buzz"
+               },
+               {
+                  "id": "d",
+                  "texto": "Jessie"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-48",
+            "tema": "entretenimiento",
+            "enunciado": "En 'Avengers: Infinity War', Thanos elimina a la mitad del universo con el Guantelete del Infinito.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "a"
+         },
+         {
+            "id": "entretenimiento-49",
+            "tema": "entretenimiento",
+            "enunciado": "¿Cuál es el nombre del anime donde los personajes compiten en juegos mortales dirigidos por una entidad misteriosa?",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Death Note"
+               },
+               {
+                  "id": "b",
+                  "texto": "Darwin’s Game"
+               },
+               {
+                  "id": "c",
+                  "texto": "Kaiji"
+               },
+               {
+                  "id": "d",
+                  "texto": "High-Rise Invasion"
+               }
+            ],
+            "idRespuestaCorrecta": "c"
+         },
+         {
+            "id": "entretenimiento-50",
+            "tema": "entretenimiento",
+            "enunciado": "La serie 'Black Mirror' se caracteriza por contar historias continuas con los mismos personajes en todos los episodios.",
+            "respuestas": [
+               {
+                  "id": "a",
+                  "texto": "Verdadero"
+               },
+               {
+                  "id": "b",
+                  "texto": "Falso"
+               }
+            ],
+            "idRespuestaCorrecta": "b"
+         }
+      ]
+   }
+}
