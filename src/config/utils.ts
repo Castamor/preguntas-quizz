@@ -16,8 +16,8 @@ export function handleClaseActive<T extends HTMLElement>
 {
    const target = evento.currentTarget
 
-   if (target.classList.contains('active')) return false
+   if (target.classList.contains('active')) return true
    eliminarClasesActive(elementos)
    target.classList.add('active')
-   return true
+   return false
 }
