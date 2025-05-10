@@ -1,16 +1,20 @@
 "use client"
 import { handleClaseActive } from "@/config/utils"
-import { DIFICULTADES } from "@/config/config"
+import { useJuegoStore } from "@/store/juego"
 import './ItemDificultad.css'
 
-interface ItemDificultadProps { valor: string }
+interface ItemDificultadProps { valor: string, }
 
 export default function ItemDificultad({ valor }: ItemDificultadProps) {
 
-   function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
-      handleClaseActive(e, '.dificultad')
+   const dificultadStore = useJuegoStore(state => state.dificultad)
+   const setDificultad = useJuegoStore(state => state.setDificultad)
 
-      console.log('hola')
+   function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
+      const activo = handleClaseActive(e, '.dificultad')
+      if (activo) return
+
+      setDificultad(valor)
    }
 
    return (
@@ -18,7 +22,7 @@ export default function ItemDificultad({ valor }: ItemDificultadProps) {
          type="button"
          title={valor}
          onClick={handleClick}
-         className={`dificultad ${(valor == DIFICULTADES.normal.texto) ? 'active' : ''} p-2 capitalize cursor-pointer rounded-lg`}
+         className={`dificultad ${(dificultadStore === valor) ? 'active' : ''} p-2 capitalize cursor-pointer rounded-lg`}
       >
          {valor}
       </button >

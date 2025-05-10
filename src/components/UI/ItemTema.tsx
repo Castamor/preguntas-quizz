@@ -1,6 +1,7 @@
 "use client"
-import './ItemTema.css'
 import { handleClaseActive } from '@/config/utils'
+import { useJuegoStore } from '@/store/juego'
+import './ItemTema.css'
 
 interface ItemTemaProps {
    tema: string
@@ -9,21 +10,25 @@ interface ItemTemaProps {
 
 export default function ItemTema({ tema, children }: ItemTemaProps) {
 
-   function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
-      handleClaseActive(e, '.item')
+   const temaStore = useJuegoStore((state) => state.tema)
+   const setTema = useJuegoStore((state) => state.setTema)
 
-      console.log(`guardando el tema: '${tema}' en localStorage`)
+   function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
+      const activo = handleClaseActive(e, '.item')
+      if (activo) return
+
+      setTema(tema)
    }
 
    return (
       <button
          type="button"
          title={tema}
-         className="item cursor-pointer"
+         className={`item ${(temaStore === tema ? 'active' : '')} cursor-pointer`}
          onClick={handleClick}
       >
          <div className="bg-neutral-100 aspect-square rounded-xl">{children}</div>
-         <p>{tema}</p>
-      </button>
+         <p className='capitalize'>{tema}</p>
+      </button >
    )
 }
