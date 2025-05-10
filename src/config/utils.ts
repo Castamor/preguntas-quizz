@@ -10,3 +10,14 @@ export function eliminarClasesActive(elemento: string) {
    const el = $$(elemento)
    el?.forEach((li) => { li.classList.remove('active') })
 }
+
+export function handleClaseActive<T extends HTMLElement> 
+(evento: React.MouseEvent<T>, elementos: string ): boolean 
+{
+   const target = evento.currentTarget
+
+   if (target.classList.contains('active')) return false
+   eliminarClasesActive(elementos)
+   target.classList.add('active')
+   return true
+}
