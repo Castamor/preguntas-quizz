@@ -27,7 +27,7 @@ export default function ItemTema({ tema, children }: ItemTemaProps) {
          className={`item ${(temaStore === tema ? 'active' : '')} cursor-pointer`}
          onClick={handleClick}
       >
-         <div className="bg-neutral-100 aspect-square rounded-xl">{children}</div>
+         <div className="bg-neutral-100 aspect-square rounded-2xl">{children}</div>
          <p className='capitalize'>{tema}</p>
       </button >
    )

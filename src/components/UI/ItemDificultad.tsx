@@ -22,7 +22,7 @@ export default function ItemDificultad({ valor }: ItemDificultadProps) {
          type="button"
          title={valor}
          onClick={handleClick}
-         className={`dificultad ${(dificultadStore === valor) ? 'active' : ''} p-2 capitalize cursor-pointer rounded-lg`}
+         className={`dificultad ${(dificultadStore === valor) ? 'active' : ''} p-2 capitalize cursor-pointer rounded-xl`}
       >
          {valor}
       </button >
