@@ -9,3 +9,8 @@ export interface Pregunta {
    respuestas: Respuesta[];
    idRespuestaCorrecta: string;
 }
+
+export interface Tema {
+   texto: string;
+   slug: string;
+} 
