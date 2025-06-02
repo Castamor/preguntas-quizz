@@ -1,20 +1,33 @@
 "use client"
-import { handleClaseActive } from "@/config/utils"
-import { useJuegoStore } from "@/store/juego"
+import { useEffect, useState } from 'react'
 import './ItemDificultad.css'
+import { handleClasesActives } from '@/helpers'
+import { useJuegoStore } from '@/store/juego'
+import { NADA } from '@/config'
 
 interface ItemDificultadProps { valor: string, }
 
 export default function ItemDificultad({ valor }: ItemDificultadProps) {
 
    const dificultadStore = useJuegoStore(state => state.dificultad)
-   const setDificultad = useJuegoStore(state => state.setDificultad)
+   const setDificultadStore = useJuegoStore(state => state.setDificultad)
+   const [estaActivo, setEstaActivo] = useState(false)
+
+   useEffect(() => {
+      handleClasesActives('.dificultad')
+      setEstaActivo(dificultadStore === valor)
+   }, [dificultadStore, valor])
 
    function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
-      const activo = handleClaseActive(e, '.dificultad')
-      if (activo) return
+      const item = e.currentTarget.classList
 
-      setDificultad(valor)
+      if (item.contains('active')) {
+         item.toggle('active')
+         setDificultadStore(NADA)
+         return
+      }
+
+      setDificultadStore(valor)
    }
 
    return (
@@ -22,7 +35,7 @@ export default function ItemDificultad({ valor }: ItemDificultadProps) {
          type="button"
          title={valor}
          onClick={handleClick}
-         className={`dificultad ${(dificultadStore === valor) ? 'active' : ''} p-2 capitalize cursor-pointer rounded-xl`}
+         className={`dificultad ${estaActivo ? 'active' : ''} p-2 capitalize cursor-pointer rounded-xl`}
       >
          {valor}
       </button >

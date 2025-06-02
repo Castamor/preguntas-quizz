@@ -1,5 +1,5 @@
 import ItemDificultad from "./UI/ItemDificultad";
-import { DIFICULTADES } from "@/config/config";
+import { DIFICULTADES } from "@/config";
 
 export default function Dificultad() {
    return (
