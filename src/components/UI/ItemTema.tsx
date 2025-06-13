@@ -1,19 +1,19 @@
 "use client"
-import { Tema as TemaType } from '@/config/types'
+import { TemaInfo } from '@/config/types'
 import { PropsWithChildren, useEffect, useState } from 'react'
-import { useJuegoStore } from '@/store/juego'
+import { useActionsJuego, useTema } from '@/store/juego'
 import { handleClasesActives } from '@/helpers'
 import { NADA } from '@/config'
 import './ItemTema.css'
 
 interface ItemTemaProps extends PropsWithChildren {
-   tema: TemaType
+   tema: TemaInfo
 }
 
 export default function ItemTema({ tema, children }: ItemTemaProps) {
 
-   const temaStore = useJuegoStore(state => state.tema)
-   const setTemaStore = useJuegoStore(state => state.setTema)
+   const temaStore = useTema()
+   const { setTema } = useActionsJuego()
    const [estaActivo, setEstaActivo] = useState(false)
 
    useEffect(() => {
@@ -26,10 +26,10 @@ export default function ItemTema({ tema, children }: ItemTemaProps) {
 
       if (item.contains('active')) {
          item.toggle('active')
-         setTemaStore(NADA)
+         setTema(NADA)
          return
       }
-      setTemaStore(tema.slug)
+      setTema(tema.slug)
    }
 
    return (

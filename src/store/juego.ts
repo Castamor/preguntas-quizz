@@ -1,28 +1,45 @@
+/* eslint-disable no-unused-vars */
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 import { NADA } from '@/config'
+import { 
+   type Tema as Temas,
+   type Dificultad as Dificultades, 
+   type Pregunta 
+} from '@/config/types'
 
 type JuegoStore = {
-   tema: string,
-   // eslint-disable-next-line no-unused-vars
-   setTema: (nuevoTema: string) => void
-   dificultad: string
-   // eslint-disable-next-line no-unused-vars
-   setDificultad: (nuevaDificultad: string) => void
+   tema: Temas,
+   dificultad: Dificultades
+   preguntas?: Pregunta[]
+
+   actions: {
+      setTema: (nuevoTema: Temas) => void
+      setDificultad: (nuevaDificultad: Dificultades) => void
+   }
 }
 
-export const useJuegoStore = create<JuegoStore>()(
+const useJuegoStore = create<JuegoStore>()(
    persist(
       (set) => ({
-         tema: NADA, // Por defecto, el tema está vacío
-         setTema: (nuevoTema: string) => {
-            set({tema: nuevoTema})
-         },
-         dificultad: NADA, // Por defecto, la dificultad está vacía
-         setDificultad: (nuevaDificultad: string) => {
-            set({dificultad: nuevaDificultad})
+         tema: NADA,
+         dificultad: NADA,
+
+         actions: {
+            setTema: (nuevoTema) => set({tema: nuevoTema}),
+            setDificultad: (nuevaDificultad) => set({dificultad: nuevaDificultad}),
          }
       }),
-      { name: 'juego-storage' }
+      { 
+         name: 'juego-storage', 
+         partialize: (state) => ({ // Persiste solo el tema y la dificultad
+            tema: state.tema,
+            dificultad: state.dificultad,
+         })
+      }
    ),
 )
+
+export const useTema = () => useJuegoStore((state) => state.tema)
+export const useDificultad = () => useJuegoStore((state) => state.dificultad)
+export const useActionsJuego = () => useJuegoStore((state) => state.actions)

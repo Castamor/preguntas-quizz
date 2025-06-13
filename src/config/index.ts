@@ -1,4 +1,6 @@
-export const DIFICULTADES = {
+import { EstructuraDificultad, EstructuraTema } from "@/config/types"
+
+export const DIFICULTADES: EstructuraDificultad = {
    normal: {
       texto: 'normal',
       tiempo_por_pregunta: 20,
@@ -11,7 +13,7 @@ export const DIFICULTADES = {
    },
 }
 
-export const TEMAS = {
+export const TEMAS: EstructuraTema = {
    programacion: { texto: 'programación', slug: 'programacion' },
    videojuegos: { texto: 'videojuegos', slug: 'videojuegos' },
    entretenimiento: { texto: 'entretenimiento', slug: 'entretenimiento' },

@@ -1,14 +1,14 @@
 "use client"
 
-import { useJuegoStore } from "@/store/juego"
+import { useDificultad, useTema } from "@/store/juego"
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import { NADA } from "@/config"
 
 export default function Jugar() {
 
-   const temaStore = useJuegoStore(state => state.tema)
-   const dificultadStore = useJuegoStore(state => state.dificultad)
+   const temaStore = useTema()
+   const dificultadStore = useDificultad()
    const [sePuedeJugar, setSePuedeJugar] = useState(false)
 
    const hayTema = temaStore !== NADA

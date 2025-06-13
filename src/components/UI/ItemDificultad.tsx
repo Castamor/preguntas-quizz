@@ -1,16 +1,18 @@
 "use client"
 import { useEffect, useState } from 'react'
-import './ItemDificultad.css'
 import { handleClasesActives } from '@/helpers'
-import { useJuegoStore } from '@/store/juego'
+import { useActionsJuego, useDificultad } from '@/store/juego'
+import { type Dificultad } from '@/config/types'
 import { NADA } from '@/config'
+import './ItemDificultad.css'
 
-interface ItemDificultadProps { valor: string, }
-
+interface ItemDificultadProps {
+   valor: Dificultad
+}
 export default function ItemDificultad({ valor }: ItemDificultadProps) {
 
-   const dificultadStore = useJuegoStore(state => state.dificultad)
-   const setDificultadStore = useJuegoStore(state => state.setDificultad)
+   const dificultadStore = useDificultad()
+   const { setDificultad } = useActionsJuego()
    const [estaActivo, setEstaActivo] = useState(false)
 
    useEffect(() => {
@@ -23,11 +25,11 @@ export default function ItemDificultad({ valor }: ItemDificultadProps) {
 
       if (item.contains('active')) {
          item.toggle('active')
-         setDificultadStore(NADA)
+         setDificultad(NADA)
          return
       }
 
-      setDificultadStore(valor)
+      setDificultad(valor)
    }
 
    return (
